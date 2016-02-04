@@ -2,7 +2,7 @@
 
 title:
 locale:           en_US
-url:              lorenzogatti.me
+url:
 
 
 # Jekyll configuration
@@ -43,21 +43,21 @@ titlecase: true
 owner:
   name: Lorenzo Gatti
   avatar: lorenzo_profile_pic.jpg
-  bio: "Computational biologist, bioinformatician"
+  bio: "Doctoral candidate in computational sciences and phylogeneomics @ Zurich University of Applied Sciences, Wädenswil (CH)"
   email: info@lorenzogatti.me
-  disqus-shortname:
+  disqus-shortname: lore89
   twitter: lore_89
   facebook: lorenzo.gatti.89
   google:
     plus: #username
-    analytics:
+    analytics: UA-73302940-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
   github: gattil
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: lorenzo.gatti.89
+  linkedin: lorenzogatti
   xing: #username
   instagram: #username
   lastfm: #username
