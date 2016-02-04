@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:
 locale:           en_US
-url:
+url:              lorenzogatti.me
 
 
 # Jekyll configuration
@@ -41,13 +41,13 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Lorenzo Gatti
+  avatar: lorenzo_profile_pic.jpg
+  bio: "Computational biologist, bioinformatician"
+  email: info@lorenzogatti.me
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: lore_89
+  facebook: lorenzo.gatti.89
   google:
     plus: #username
     analytics:
@@ -55,9 +55,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: gattil
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: lorenzo.gatti.89
   xing: #username
   instagram: #username
   lastfm: #username
