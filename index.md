@@ -11,8 +11,9 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-    
+
     {{ post.content }}
-  </div></a>
+
+  </a>
   {% endfor %}
 </div>
