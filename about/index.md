@@ -3,11 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-
 I was born in Brescia in 1989. I grew up in Franciacorta's country side, a beautiful place where you can appreciate the incredible landscapes drinking superb wines.
 
 From Sept'03 until June'08 I attended the high school @ Istituto Madonna della Neve in Adro (BS) - IT where I focused my attention on classical studies and in June'08 I obtained the "Maturità Classica" (humanistic studies) high school degree.
@@ -24,7 +19,8 @@ From Feb'15, I joined Dr. Maria Anisimova bioinformatics group as a PhD candidat
 
 ## Research
 
-#### Past research
+I am currently studying the evolutionary molecular and epidemiological dynamics of viral diseases affecting the human population on a global scale.
+
 
 ## Teaching
 
@@ -54,6 +50,8 @@ From Feb'15, I joined Dr. Maria Anisimova bioinformatics group as a PhD candidat
 
 
 ## Contact
+
+#### Lorenzo Gatti
 
 [Applied Computational Genomics Team](https://www.zhaw.ch/de/lsfm/institute-zentren/ias/forschung/predictive-bio-inspired-modeling/computational-genomics/) <br />
 [Institute of Applied Simulations](https://www.zhaw.ch/de/lsfm/dienstleistung/institut-fuer-angewandte-simulation/) <br />

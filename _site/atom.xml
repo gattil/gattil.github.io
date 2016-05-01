@@ -4,7 +4,7 @@
  <title>Lorenzo Gatti</title>
  <link href="http://lorenzogatti.me/atom.xml" rel="self"/>
  <link href="http://lorenzogatti.me/"/>
- <updated>2016-05-01T21:14:32+02:00</updated>
+ <updated>2016-05-01T22:03:11+02:00</updated>
  <id>http://lorenzogatti.me</id>
  <author>
    <name>Lorenzo Gatti</name>
@@ -13,29 +13,32 @@
 
  
  <entry>
-   <title>PhyloSIB 2016 in Waedenswil</title>
-   <link href="http://lorenzogatti.me/2016/05/01/phylosib-registrations-opening.html"/>
+   <title>Beyond genes and genomes</title>
+   <link href="http://lorenzogatti.me/2016/05/01/human-influenza-dynamics-teaser.html"/>
    <updated>2016-05-01T00:00:00+02:00</updated>
-   <id>http://lorenzogatti.me/2016/05/01/phylosib-registrations-opening</id>
-   <content type="html">&lt;p&gt;Sequencing data can be used to infer epidemiological dynamics of global spreading diseases, as influenza.&lt;/p&gt;
+   <id>http://lorenzogatti.me/2016/05/01/human-influenza-dynamics-teaser</id>
+   <content type="html">&lt;h4 id=&quot;when-computational-approaches-unveil-host-pathogen-interactions-on-a-global-scale&quot;&gt;When computational approaches unveil host-pathogen interactions on a global scale&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/swineflu_mexico_city.jpg&quot; alt=&quot;SwineInfluenzaMexicoCity&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People in Mexico City wear masks on a train due to the swine flu outbreak throughout the surrounding region – &lt;a href=&quot;http://www.flickr.com/photos/99479626@N00/3471986083/&quot;&gt;Epidemia de Pánico&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;During the course of evolution, pathogens exploited new and better strategies to infect the human body. A well-known case is influenza disease, which evolves extremely rapidly in order to escape and elude the human immune system. With the increasing of availability of molecular data, new computational methods (i.e. phylodynamic models) are needed to describe and unveil the close association between a more-and-more global and dynamic society and its pathogens.&lt;/p&gt;
+
+&lt;div class=&quot;message&quot;&gt;
+More at &lt;a href=&quot;http://www.nanotalks.uzh.ch/index.html&quot;&gt;NanoTalks&lt;/a&gt; -- May 26th 2016 at 7pm at University of Zürich, Main Building KOL-E-18
+&lt;/div&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Frontiers in Plant Science. Understanding computational molecular evolution</title>
+   <title>Frontiers in Plant Science</title>
    <link href="http://lorenzogatti.me/2016/01/23/frontiers-in-plant-science.html"/>
    <updated>2016-01-23T00:00:00+01:00</updated>
    <id>http://lorenzogatti.me/2016/01/23/frontiers-in-plant-science</id>
-   <content type="html">&lt;p&gt;Sequencing data can be used to infer epidemiological dynamics of global spreading diseases, as influenza.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Virus epidemiological dynamics can be monitored using phylodynamic methods</title>
-   <link href="http://lorenzogatti.me/2015/12/15/human-influenza-phylodynamics.html"/>
-   <updated>2015-12-15T00:00:00+01:00</updated>
-   <id>http://lorenzogatti.me/2015/12/15/human-influenza-phylodynamics</id>
-   <content type="html">&lt;p&gt;Sequencing data can be used to infer epidemiological dynamics of global spreading diseases, as influenza.&lt;/p&gt;
+   <content type="html">&lt;h4 id=&quot;understanding-computational-molecular-evolution&quot;&gt;Understanding computational molecular evolution&lt;/h4&gt;
 </content>
  </entry>
  
