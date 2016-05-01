@@ -30,7 +30,7 @@ url:                  http://lorenzogatti.me
 baseurl:              ''
 
 ## replace analytics key below to enable tracking, leave blank to disable
-google_analytics_key: UA-37412525-4
+google_analytics_key: UA-73302940-1
 
 author:
   name:               Lorenzo Gatti
