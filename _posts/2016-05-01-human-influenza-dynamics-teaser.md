@@ -7,7 +7,7 @@ title:  Beyond genes and genomes
 
 #### When computational approaches unveil host-pathogen interactions on a global scale
 
-![SwineInfluenzaMexicoCity](../assets/swineflu_mexico_city.jpg)
+![SwineInfluenzaMexicoCity](http://lorenzogatti.me/assets/swineflu_mexico_city.jpg)
 
 > People in Mexico City wear masks on a train due to the swine flu outbreak throughout the surrounding region -- [Epidemia de Pánico](http://www.flickr.com/photos/99479626@N00/3471986083/)
 

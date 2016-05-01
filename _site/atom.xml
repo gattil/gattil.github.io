@@ -4,7 +4,7 @@
  <title>Lorenzo Gatti</title>
  <link href="http://lorenzogatti.me/atom.xml" rel="self"/>
  <link href="http://lorenzogatti.me/"/>
- <updated>2016-05-01T22:03:11+02:00</updated>
+ <updated>2016-05-01T22:04:46+02:00</updated>
  <id>http://lorenzogatti.me</id>
  <author>
    <name>Lorenzo Gatti</name>
@@ -19,7 +19,7 @@
    <id>http://lorenzogatti.me/2016/05/01/human-influenza-dynamics-teaser</id>
    <content type="html">&lt;h4 id=&quot;when-computational-approaches-unveil-host-pathogen-interactions-on-a-global-scale&quot;&gt;When computational approaches unveil host-pathogen interactions on a global scale&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/swineflu_mexico_city.jpg&quot; alt=&quot;SwineInfluenzaMexicoCity&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://lorenzogatti.me/assets/swineflu_mexico_city.jpg&quot; alt=&quot;SwineInfluenzaMexicoCity&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;People in Mexico City wear masks on a train due to the swine flu outbreak throughout the surrounding region – &lt;a href=&quot;http://www.flickr.com/photos/99479626@N00/3471986083/&quot;&gt;Epidemia de Pánico&lt;/a&gt;&lt;/p&gt;
