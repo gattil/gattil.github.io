@@ -1,9 +1,18 @@
 ---
-layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+layout: default
+title: Home
 ---
+
+<div class="posts">
+  {% for post in site.posts %}
+  <div class="post">
+    <a name="{{ post.title | downcase | url_encode }}"><h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+    
+    {{ post.content }}
+  </div></a>
+  {% endfor %}
+</div>

@@ -1,76 +1,66 @@
-# Site wide configuration
-
-title:
-locale:           en_US
-url:
+# Dependencies
+markdown:             kramdown
+highlighter:          rouge
 
 
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
+# Gems
 gems:
   - jekyll-sitemap
   - jekyll-gist
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+
+# Settings
+navigation:           true
+headroom:             true
+color:                '#268bd2'
+exclude:              [CNAME, README.md, NOTES.md, .gitignore, js, sass, .gulpfile, node_modules]
+sass:
+  sass_dir:           _sass
+  style:              compressed
 
 
-# Octopress
+# Site meta
+title:                Skye
+tagline:              'A Jekyll theme'
+keywords:             'skye, jekyll, template, github, project, single page, one page'
+description:          'A one-page, two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content. Made by @connor_baer.'
+image:                /assets/main.jpg
+logo:                 /assets/logo.png
+url:                  http://skye.connorbaer.io
+baseurl:              ''
 
-# Default extensions
-post_ext: md
-page_ext: md
+## replace analytics key below to enable tracking, leave blank to disable
+google_analytics_key: UA-37412525-4 
 
-# Found in _templates/
-post_layout: post
-page_layout: page
+author:
+  name:               Connor Bär
+  url:                http://connorbaer.io
+  email:              hello@connorbaer.io
+  twitter:            connor_baer
 
-# Format titles with titlecase?
-titlecase: true
+## outputs the social links in the sidebar, leave url blank to omit a social network, re-arrange to change order
+social:
+  medium:             https://medium.com/@connor_baer
+  github:             https://github.com/connor-baer
+  twitter:            https://twitter.com/connor_baer
+  facebook:           
+  instagram:          https://instagram.com/connor_baer
+  snapchat:           
+
+version:              2.0.0
+
+github:
+  repo:               https://github.com/connor-baer/skye
 
 
-# Site owner
-owner:
-  name: Lorenzo Gatti
-  avatar: lorenzo_profile_pic.jpg
-  bio: "Doctoral candidate in computational sciences and phylogeneomics @ Zurich University of Applied Sciences, Wädenswil (CH)"
-  email: info@lorenzogatti.me
-  disqus-shortname: gattil
-  twitter: lore_89
-  facebook: lorenzo.gatti.89
-  google:
-    plus: #username
-    analytics: UA-73302940-1
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: gattil
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: lorenzogatti
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+# /* Predefined theme colors */
+# $red: #ac4142;
+# $orange: #d28445;
+# $yellow: #f4bf75;
+# $green: #90a959;
+# $cyan: #75b5aa;
+# $blue: #268bd2;
+# // $blue: #6a9fb5;
+# $brown: #8f5536;
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+# /* Set your colors here. You can use the predefined colors from above. */
