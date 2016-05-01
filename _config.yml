@@ -20,37 +20,35 @@ sass:
 
 
 # Site meta
-title:                Skye
-tagline:              'A Jekyll theme'
-keywords:             'skye, jekyll, template, github, project, single page, one page'
-description:          'A one-page, two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content. Made by @connor_baer.'
-image:                /assets/main.jpg
+title:                Lorenzo Gatti
+tagline:              'Doctoral candidate in Computational Sciences and Phylogenomics'
+keywords:             'molecular evolution, computer science, evolution, dynamics, phylogenomics, trees, computational biology, bioinformatics'
+description:          'Doctoral candidate in computational sciences and phylogeneomics @ Zurich University of Applied Sciences, Wädenswil (CH)'
+image:                /assets/lorenzo.jpg
 logo:                 /assets/logo.png
-url:                  http://skye.connorbaer.io
+url:                  http://lorenzogatti.me
 baseurl:              ''
 
 ## replace analytics key below to enable tracking, leave blank to disable
-google_analytics_key: UA-37412525-4 
+google_analytics_key: UA-37412525-4
 
 author:
-  name:               Connor Bär
-  url:                http://connorbaer.io
-  email:              hello@connorbaer.io
-  twitter:            connor_baer
+  name:               Lorenzo Gatti
+  url:                http://lorenzogatti.me
+  email:              hello@lorenzogatti.me
+  twitter:            lore_89
 
 ## outputs the social links in the sidebar, leave url blank to omit a social network, re-arrange to change order
 social:
-  medium:             https://medium.com/@connor_baer
-  github:             https://github.com/connor-baer
-  twitter:            https://twitter.com/connor_baer
-  facebook:           
-  instagram:          https://instagram.com/connor_baer
-  snapchat:           
+  ZHAW:               https://www.zhaw.ch/en/about-us/person/gati/
+  ResearchGate:       https://www.researchgate.net/profile/Lorenzo_Gatti
+  academica:          https://zhaw.academia.edu/LorenzoGatti
+  twitter:            https://twitter.com/lore_89
 
 version:              2.0.0
 
 github:
-  repo:               https://github.com/connor-baer/skye
+  repo:               https://github.com/gattil
 
 
 # /* Predefined theme colors */
