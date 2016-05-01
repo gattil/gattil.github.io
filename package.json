@@ -1,0 +1,31 @@
+{
+  "name": "skye",
+  "version": "2.0.0",
+  "description": "A one-page, two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connor-baer/skye.git"
+  },
+  "keywords": [
+    "poole",
+    "jekyll",
+    "butler",
+    "skye"
+  ],
+  "author": "Connor Bär",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connor-baer/skye/issues"
+  },
+  "homepage": "https://skye.connorbaer.io",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "gulp-watch": "^4.3.5"
+  }
+}
