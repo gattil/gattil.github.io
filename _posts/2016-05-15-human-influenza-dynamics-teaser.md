@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Beyond genes and genomes
-subtitle: When computational approaches unveil host-pathogen interactions on a global scale
+title:  Computational Molecular Evolution at NanoTalks
+subtitle: Predicting influenza evolution using global high granular datasets
 author: Lorenzo
 #tags: ["virus", "influenza", "phylodynamics", "phylogenomics", "epidemiology", "trees", "evolution", "natural selection"]
 #comments: true
 ---
 
-![SwineInfluenzaMexicoCity](http://lorenzogatti.me/assets/swineflu_mexico_city.jpg)
+![SwineInfluenzaMexicoCity](/assets/beyond_genes_and_genomes.jpg)
 
 > People in Mexico City wear masks on a train due to the swine flu outbreak throughout the surrounding region -- [Epidemia de Pánico](http://www.flickr.com/photos/99479626@N00/3471986083/)
 

@@ -4,7 +4,7 @@
  <title>Lorenzo Gatti</title>
  <link href="http://lorenzogatti.me/atom.xml" rel="self"/>
  <link href="http://lorenzogatti.me/"/>
- <updated>2016-05-21T15:27:01+03:00</updated>
+ <updated>2016-05-21T16:39:08+03:00</updated>
  <id>http://lorenzogatti.me</id>
  <author>
    <name>Lorenzo Gatti</name>
@@ -13,11 +13,11 @@
 
  
  <entry>
-   <title>Beyond genes and genomes</title>
+   <title>Computational Molecular Evolution at NanoTalks</title>
    <link href="http://lorenzogatti.me/2016/05/15/human-influenza-dynamics-teaser.html"/>
    <updated>2016-05-15T00:00:00+03:00</updated>
    <id>http://lorenzogatti.me/2016/05/15/human-influenza-dynamics-teaser</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://lorenzogatti.me/assets/swineflu_mexico_city.jpg&quot; alt=&quot;SwineInfluenzaMexicoCity&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/beyond_genes_and_genomes.jpg&quot; alt=&quot;SwineInfluenzaMexicoCity&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;People in Mexico City wear masks on a train due to the swine flu outbreak throughout the surrounding region – &lt;a href=&quot;http://www.flickr.com/photos/99479626@N00/3471986083/&quot;&gt;Epidemia de Pánico&lt;/a&gt;&lt;/p&gt;
