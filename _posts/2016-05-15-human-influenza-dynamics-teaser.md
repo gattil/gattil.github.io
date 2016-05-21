@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Beyond genes and genomes
+subtitle: When computational approaches unveil host-pathogen interactions on a global scale
+author: Lorenzo
 #tags: ["virus", "influenza", "phylodynamics", "phylogenomics", "epidemiology", "trees", "evolution", "natural selection"]
 #comments: true
 ---
-
-#### When computational approaches unveil host-pathogen interactions on a global scale
 
 ![SwineInfluenzaMexicoCity](http://lorenzogatti.me/assets/swineflu_mexico_city.jpg)
 

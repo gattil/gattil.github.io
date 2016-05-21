@@ -11,6 +11,7 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
+    <h4> {{ post.subtitle }} </h4>
 
     {{ post.content }}
 
