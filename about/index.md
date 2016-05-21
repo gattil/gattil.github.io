@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+author: Lorenzo
+
 ---
 
 I was born in Brescia in 1989. I grew up in Franciacorta's country side, a beautiful place where you can appreciate the incredible landscapes drinking superb wines.
@@ -11,11 +13,11 @@ I decided to shift my studies into biological sciences from 2008 until 2011, per
 
 I moved to Zürich (Switzerland) on Feb'12 where I attended a two-years Master Course in Computational Biology and Bioinformatic @ Eidgenössische Technische Hochschule Zürich (ETHZ).
 
-In Feb'13 I joined Prof. Konrad Basler group for a small research project (lab rotation) @ IMLS (Institute of Molecular Life Sciences - University of Zürich) under the supervision of Dr. Simon Restrepo that successfully ended in Oct'13.
+In Feb'13 I joined [Prof. Konrad Basler](http://www.imls.uzh.ch/en/research/basler.html) group for a small research project (lab rotation) @ IMLS (Institute of Molecular Life Sciences - University of Zürich) under the supervision of [Dr. Simon Restrepo](http://bioimaging.usc.edu/index.html) that successfully ended in Oct'13.
 
-From June'14 to Jan'15, after my master thesis project on modelling D. melanogaster tubular organs development via FEM simulations, I was a Research Assistant under the supervision of Prof. Konrad Basler (UZH) and Dr. Yanlan Mao (UCL). In this period of time, I was involved in the software engineering of EpiTools, an image processing software for epithelial tissues.
+From June'14 to Jan'15, after my master thesis project on modelling D. melanogaster tubular organs through FEM simulations, I was a Research Assistant under the supervision of [Prof. Konrad Basler (UZH)](http://www.imls.uzh.ch/en/research/basler.html) and [Dr. Yanlan Mao (UCL)](http://www.ucl.ac.uk/lmcb/users/yanlan-mao). In this period of time, I was involved in the software engineering of [EpiTools](http://imls-bg-arthemis.uzh.ch/epitools-wiki/site/home/), an image processing software for epithelial tissues.
 
-From Feb'15, I joined Dr. Maria Anisimova bioinformatics group as a PhD candidate in computational science and phylogenetics at Zurich University of Applied Sciences in Wädenswil, ZH
+Starting from Feb'15, I joined [Dr. Maria Anisimova](https://www.zhaw.ch/en/about-us/person/anis/) bioinformatics group as a PhD candidate in computational science and phylogenetics at Zurich University of Applied Sciences in Wädenswil (ZH).
 
 ## Research
 
@@ -37,21 +39,24 @@ I am currently studying the evolutionary molecular and epidemiological dynamics 
 
 ## Software
 
-[Epitools](http://imls-bg-arthemis.uzh.ch/epitools-wiki/site/home/)
+- [Epitools - Image processing software for Epithelial Tissues](http://imls-bg-arthemis.uzh.ch/epitools-wiki/site/home/)
 
 
 ## Memberships
 
-- [2015] Member of MLS PhD Retreat Organising Committee 2016
-- [2015] Member of the UZH -- ETHZ MLS PhD program steering committee
-- [2015] Member of Swiss Institute of Bioinformatics
-- [2014] Member of Verein Informatik-Alumni ETH Zürich (IAETH)
+- [2015-current] Member of MLS PhD Retreat Organising Committee 2016
+- [2015-current] Member of the UZH -- ETHZ MLS PhD program steering committee
+- [2015-current] Member of Swiss Institute of Bioinformatics
+- [2014-current] Member of Verein Informatik-Alumni ETH Zürich (IAETH)
+- [2013-2014] Board member of Verband der Studierenden an der ETHZ (VSETH)
+- [2012-2014] Board member of Kommission für Masterstudenten ohne ETH-Bachelor (MoEB)
 - [2011] Founder of CUSMIBIO Alumni association at University of Milan
+- [2008] Member of NYEX (Network for Youth Excellence)
 
 
 ## Contact
 
-#### Lorenzo Gatti
+### Lorenzo Gatti
 
 [Applied Computational Genomics Team](https://www.zhaw.ch/de/lsfm/institute-zentren/ias/forschung/predictive-bio-inspired-modeling/computational-genomics/) <br />
 [Institute of Applied Simulations](https://www.zhaw.ch/de/lsfm/dienstleistung/institut-fuer-angewandte-simulation/) <br />
