@@ -4,7 +4,7 @@
  <title>Lorenzo Gatti</title>
  <link href="http://lorenzogatti.me/atom.xml" rel="self"/>
  <link href="http://lorenzogatti.me/"/>
- <updated>2016-05-21T12:46:54+03:00</updated>
+ <updated>2016-05-21T13:18:51+03:00</updated>
  <id>http://lorenzogatti.me</id>
  <author>
    <name>Lorenzo Gatti</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Beyond genes and genomes</title>
-   <link href="http://lorenzogatti.me/2016/05/01/human-influenza-dynamics-teaser.html"/>
-   <updated>2016-05-01T00:00:00+03:00</updated>
-   <id>http://lorenzogatti.me/2016/05/01/human-influenza-dynamics-teaser</id>
+   <link href="http://lorenzogatti.me/2016/05/15/human-influenza-dynamics-teaser.html"/>
+   <updated>2016-05-15T00:00:00+03:00</updated>
+   <id>http://lorenzogatti.me/2016/05/15/human-influenza-dynamics-teaser</id>
    <content type="html">&lt;h4 id=&quot;when-computational-approaches-unveil-host-pathogen-interactions-on-a-global-scale&quot;&gt;When computational approaches unveil host-pathogen interactions on a global scale&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://lorenzogatti.me/assets/swineflu_mexico_city.jpg&quot; alt=&quot;SwineInfluenzaMexicoCity&quot; /&gt;&lt;/p&gt;
@@ -30,15 +30,6 @@
 &lt;div class=&quot;message&quot;&gt;
 More at &lt;a href=&quot;http://www.nanotalks.uzh.ch/index.html&quot;&gt;NanoTalks&lt;/a&gt; -- May 26th 2016 at 7pm at University of Zürich, Main Building KOL-E-18
 &lt;/div&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Frontiers in Plant Science</title>
-   <link href="http://lorenzogatti.me/2016/01/23/frontiers-in-plant-science.html"/>
-   <updated>2016-01-23T00:00:00+02:00</updated>
-   <id>http://lorenzogatti.me/2016/01/23/frontiers-in-plant-science</id>
-   <content type="html">&lt;h4 id=&quot;understanding-computational-molecular-evolution&quot;&gt;Understanding computational molecular evolution&lt;/h4&gt;
 </content>
  </entry>
  

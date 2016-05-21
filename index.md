@@ -15,5 +15,7 @@ title: Home
     {{ post.content }}
 
   </a>
+  <hr class="lighter"/>
+
   {% endfor %}
 </div>
