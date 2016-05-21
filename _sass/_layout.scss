@@ -13,3 +13,29 @@
 footer {
   margin-bottom: 2rem;
 }
+
+.lighter {
+  opacity: .4;
+}
+
+.recent-posts {
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  opacity: .4;
+  color: black;
+  font-size: smaller;
+  margin-top: -10px;
+  margin-bottom: 30px;
+}
+
+.spanlighter {
+    color: black;
+    opacity: .6;
+    display: inline;
+}
+.spanlighter-white {
+    color: black;
+    opacity: .6;
+    display: inline;
+}
