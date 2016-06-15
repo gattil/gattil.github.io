@@ -12,21 +12,24 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 <div class="recent-posts">Upcoming events <div class="spanlighter"> by most recent</div></div>
 
 <div class="row">
-<div class="two columns"><img src="/assets/University_of_Zurich_Logo.png"></div>
-<div class="six columns event-title"><a href="http://www.nanotalks.uzh.ch/index.html"><p>Invited speaker at NanoTalks</p></a></div>
-<div class="three columns" style="float:right;"><p>26 May 2016</p></div></div>
-
-
-
-<div class="row">
-<div class="two columns"><img src="/assets/sib_logo_quadri_high_res.png"></div>
-<div class="six columns event-title"><a href="http://sib.swiss/events/sibdays2016/home"><p>Invited speaker and poster session at SIB Days</p></a></div>
-<div class="three columns" style="float:right;"><p>7-8 June 2016</p></div></div>
-
-<div class="row">
 <div class="two columns"><img src="/assets/sib_logo_quadri_high_res.png"></div>
 <div class="six columns event-title"><a href="https://intranet.isb-sib.ch/pages/viewpage.action?spaceKey=PHYL&title=PhyloSIB+2016"><p>Organiser of PhyloSIB</p></a></div>
 <div class="three columns" style="float:right;"><p>30 June 2016</p></div></div>
+
+<div class="row">
+<div class="two columns"><img src="/assets/TUMLogo.png"></div>
+<div class="six columns event-title"><a href="http://www.biodiv.wzw.tum.de/index.php?id=2"><p>Visiting doctoral candidate at Wissenschaftszentrum Weihenstephan für Ernährung, Landnutzung und Umwelt -- Technische Universität München (TUM) -- Freising (DE)</p></a></div>
+<div class="three columns" style="float:right;"><p>7-11 July 2016</p></div></div>
+
+<div class="row">
+<div class="two columns"><img src="/assets/xlab.gif"></div>
+<div class="six columns event-title"><a href="http://www.xlab-goettingen.de/"><p> Invited speaker to XLAB Alumni Symposium -- Göttingen (DE)</p></a></div>
+<div class="three columns" style="float:right;"><p>7-11 July 2016</p></div></div>
+
+<div class="row">
+<div class="two columns"><img src="/assets/tiho.png"></div>
+<div class="six columns event-title"><a href="http://www.tiho-hannover.de/kliniken-institute/institute/research-center-for-emerging-infections-and-zoonoses/"><p>Visiting doctoral candidate at Research Center for Emerging Infections and Zoonoses (RIZ)</p></a></div>
+<div class="three columns" style="float:right;"><p>11-13 July 2016</p></div></div>
 
 
 <div class="row">
@@ -35,8 +38,21 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 <div class="three columns" style="float:right;"><p>25-27 Sept 2016</p></div></div>
 
 
+
 <hr class="lighter"/>
 <div class="recent-posts">Past events <div class="spanlighter"> by most recent</div></div>
+
+<div class="row">
+<div class="two columns"><img src="/assets/sib_logo_quadri_high_res.png"></div>
+<div class="six columns event-title"><a href="http://sib.swiss/events/sibdays2016/home"><p>Invited speaker and poster session at SIB Days</p></a></div>
+<div class="three columns" style="float:right;"><p>7-8 June 2016</p></div></div>
+
+
+<div class="row">
+<div class="two columns"><img src="/assets/University_of_Zurich_Logo.png"></div>
+<div class="six columns event-title"><a href="http://www.nanotalks.uzh.ch/index.html"><p>Invited speaker at NanoTalks</p></a></div>
+<div class="three columns" style="float:right;"><p>26 May 2016</p></div></div>
+
 
 <div class="row">
 <div class="two columns"><img src="/assets/EMBO_logo_tagline_CMYKblack_outlined.png"></div>
