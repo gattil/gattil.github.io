@@ -11,15 +11,21 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 <hr class="lighter"/>
 <div class="recent-posts">Upcoming events <div class="spanlighter"> by most recent</div></div>
 
-<div class="row">
-<div class="two columns"><img src="/assets/sib_logo_quadri_high_res.png"></div>
-<div class="six columns event-title"><a href="https://intranet.isb-sib.ch/pages/viewpage.action?spaceKey=PHYL&title=PhyloSIB+2016"><p>Organiser of PhyloSIB</p></a></div>
-<div class="three columns" style="float:right;"><p>30 June 2016</p></div></div>
+
+
+<hr class="lighter"/>
+<div class="recent-posts">Past events <div class="spanlighter"> by most recent</div></div>
 
 <div class="row">
-<div class="two columns"><img src="/assets/TUMLogo.png"></div>
-<div class="six columns event-title"><a href="http://www.biodiv.wzw.tum.de/index.php?id=2"><p>Visiting doctoral candidate at Wissenschaftszentrum Weihenstephan für Ernährung, Landnutzung und Umwelt -- Technische Universität München (TUM) -- Freising (DE)</p></a></div>
-<div class="three columns" style="float:right;"><p>7-11 July 2016</p></div></div>
+<div class="two columns"><img src="/assets/WGC_Logo_Landscape.png"></div>
+<div class="six columns event-title"><a href="http://www.embl.de/training/events/2016/BIG16-01/index.html"><p> Selected speaker at Big Data in Biology and Health 2016</p></a></div>
+<div class="three columns" style="float:right;"><p>25-27 Sept 2016</p></div></div>
+
+
+<div class="row">
+<div class="two columns"><img src="/assets/tiho.png"></div>
+<div class="six columns event-title"><a href="http://www.tiho-hannover.de/kliniken-institute/institute/research-center-for-emerging-infections-and-zoonoses/"><p>Visiting doctoral candidate at Research Center for Emerging Infections and Zoonoses (RIZ)</p></a></div>
+<div class="three columns" style="float:right;"><p>11-13 July 2016</p></div></div>
 
 <div class="row">
 <div class="two columns"><img src="/assets/xlab.gif"></div>
@@ -27,20 +33,15 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 <div class="three columns" style="float:right;"><p>7-11 July 2016</p></div></div>
 
 <div class="row">
-<div class="two columns"><img src="/assets/tiho.png"></div>
-<div class="six columns event-title"><a href="http://www.tiho-hannover.de/kliniken-institute/institute/research-center-for-emerging-infections-and-zoonoses/"><p>Visiting doctoral candidate at Research Center for Emerging Infections and Zoonoses (RIZ)</p></a></div>
-<div class="three columns" style="float:right;"><p>11-13 July 2016</p></div></div>
+<div class="two columns"><img src="/assets/TUMLogo.png"></div>
+<div class="six columns event-title"><a href="http://www.biodiv.wzw.tum.de/index.php?id=2"><p>Visiting doctoral candidate at Wissenschaftszentrum Weihenstephan für Ernährung, Landnutzung und Umwelt -- Technische Universität München (TUM) -- Freising (DE)</p></a></div>
+<div class="three columns" style="float:right;"><p>7-11 July 2016</p></div></div>
 
 
 <div class="row">
-<div class="two columns"><img src="/assets/WGC_Logo_Landscape.png"></div>
-<div class="six columns event-title"><a href="http://www.embl.de/training/events/2016/BIG16-01/index.html"><p> Invited poster session at Big Data in Biology and Health 2016</p></a></div>
-<div class="three columns" style="float:right;"><p>25-27 Sept 2016</p></div></div>
-
-
-
-<hr class="lighter"/>
-<div class="recent-posts">Past events <div class="spanlighter"> by most recent</div></div>
+<div class="two columns"><img src="/assets/sib_logo_quadri_high_res.png"></div>
+<div class="six columns event-title"><a href="https://intranet.isb-sib.ch/pages/viewpage.action?spaceKey=PHYL&title=PhyloSIB+2016"><p>Organiser of PhyloSIB</p></a></div>
+<div class="three columns" style="float:right;"><p>30 June 2016</p></div></div>
 
 <div class="row">
 <div class="two columns"><img src="/assets/sib_logo_quadri_high_res.png"></div>
