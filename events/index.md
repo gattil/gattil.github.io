@@ -11,6 +11,10 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 <hr class="lighter"/>
 <div class="recent-posts">Upcoming events <div class="spanlighter"> by most recent</div></div>
 
+<div class="row">
+<div class="two columns"><img src="/assets/bayer-logo-2003-zoomed.jpg"></div>
+<div class="six columns event-title"><a href="https://www.karriere.bayer.de/en/working-at-bayer/entrylevel/postdocs/Computational_Life_Sciences_Workshop/"><p> Selected trainee at Computational Life Sciences @ Bayer 2016</p></a></div>
+<div class="three columns" style="float:right;"><p>16-18 Nov 2016</p></div></div>
 
 
 <hr class="lighter"/>
