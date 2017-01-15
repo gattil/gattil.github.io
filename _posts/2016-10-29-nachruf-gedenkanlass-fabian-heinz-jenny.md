@@ -24,15 +24,15 @@ Dear Fabian,
 
 
 <div class="message">
-<a href="http://trauer.nzz.ch/file_tmp/image_tmp/139/99e3525b-0494-4255-aec3-c879e3f62297.jpg">Todesanzeige NZZ Privat</a>
+<a href="/assets/6f7fc1ea-9322-40c3-8c67-5f0e10cbdf08.pdf">Todesanzeige NZZ Privat</a>
 </div>
 
 <div class="message">
-<a href="http://trauer.nzz.ch/file_tmp/image_tmp/139/277783d9-741a-4e30-85ac-865b347b3efa.jpg">Todesanzeige NZZ UZH</a>
+<a href="/assets/c6fe1a31-1f57-4adb-a3a7-3f168ba7e701.pdf">Todesanzeige NZZ UZH</a>
 </div>
 
 <div class="message">
-<a href="http://trauer.nzz.ch/file_tmp/image_tmp/139/d8a8c48b-40ab-460e-827e-364a1875b2cb.jpg">Todesanzeige Roche-Pharma Schweiz</a>
+<a href="/assets/f9d31293-e28d-4a89-a6fd-097952f5c1b2.pdf">Todesanzeige Roche-Pharma Schweiz</a>
 </div>
 
 <br>
