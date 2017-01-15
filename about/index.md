@@ -44,9 +44,9 @@ I am currently studying the evolutionary molecular and epidemiological dynamics 
 
 ## Memberships
 
-- [2015-current] Member of MLS PhD Retreat Organising Committee 2016
-- [2015-current] Member of the UZH -- ETHZ MLS PhD program steering committee
 - [2015-current] Member of Swiss Institute of Bioinformatics
+- [2015-2016] Member of MLS PhD Retreat Organising Committee 2016
+- [2015-2016] Member of the UZH -- ETHZ MLS PhD program steering committee
 - [2014-current] Member of Verein Informatik-Alumni ETH Zürich (IAETH)
 - [2013-2014] Board member of Verband der Studierenden an der ETHZ (VSETH)
 - [2012-2014] Board member of Kommission für Masterstudenten ohne ETH-Bachelor (MoEB)
