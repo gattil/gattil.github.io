@@ -11,7 +11,10 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 <hr class="lighter"/>
 <div class="recent-posts">Upcoming events <div class="spanlighter"> by most recent</div></div>
 
-
+<div class="row">
+<div class="two columns"><img src="/assets/University_of_Zurich_Logo.png"></div>
+<div class="six columns event-title"><a href="http://www.imls.uzh.ch/en/research/vonmering.html"><p>Invited speaker at IMLS - UZH in Prof. Christian von Mering's group</p></a></div>
+<div class="three columns" style="float:right;"><p>15 Feb 2017</p></div></div>
 
 
 <hr class="lighter"/>
