@@ -3,11 +3,32 @@ layout: page
 title:  FHJ
 subtitle: Aula der Universität Zürich - 29. Okt 2016
 author: Lorenzo
-#tags: ["Fabian", "Jenny", "Heinz", "nachruf", "gedenkanlass", "Universität Zürich", "UZH", "University of Zurich"]
+#tags: ["Fabian Jenny", "Fabian Heinz Jenny", "nachruf", "gedenkanlass", "Universität Zürich", "UZH", "University of Zurich"]
 #comments: false
 ---
+<br>
+
+<!--
+---
+
+###### Published on 27 March 2017 by Lorenzo
+
+# Once more, once again, Happy Birthday
+
+###### Remembering 
+
+
+
+
+
+---
+-->
+
+###### Published on 30 October 2016 by Lorenzo
 
 # Nach der Gedenkanlass für Fabian Heinz Jenny
+
+###### Aula der Universität Zürich - 29. Okt 2016
 
 <!--![Fabian Heinz Jenny](/assets/FabianHeinzJenny.jpg =300x)-->	
 
