@@ -27,7 +27,7 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 <div class="recent-posts">Past events <div class="spanlighter"> by most recent</div></div>
 
 <div class="row">
-<div class="two columns"><img src="/assets/Uni_Innsbruck.png"></div>
+<div class="two columns"><img src="/assets/Uni_innsbruck.png"></div>
 <div class="six columns event-title"><a href="https://www.uibk.ac.at/botany/index.html.en"><p>Visiting doctoral candidate at Institut für Botanik und den Botanischen Gärten - Universität Innsbruck </p></a></div>
 <div class="three columns" style="float:right;"><p>21-25 Feb 2017</p></div></div>
 

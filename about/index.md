@@ -43,14 +43,15 @@ I am currently studying the evolutionary molecular and epidemiological dynamics 
 
 
 ## Memberships
-
-- [2015-current] Member of Swiss Institute of Bioinformatics
+- [2016-current] Member of the scientific Board at [Swiss Institute of Queer Studies](http://queerstudies.ch)
+- [2015-current] Member of [Swiss Institute of Bioinformatics](http://sib.swiss)
 - [2015-2016] Member of MLS PhD Retreat Organising Committee 2016
-- [2015-2016] Member of the UZH -- ETHZ MLS PhD program steering committee
-- [2014-current] Member of Verein Informatik-Alumni ETH Zürich (IAETH)
-- [2013-2014] Board member of Verband der Studierenden an der ETHZ (VSETH)
+- [2015-2016] Member of the UZH - ETHZ MLS PhD program steering committee
+- [2014-current] Member of [Verein Informatik-Alumni ETH Zürich (IAETH)](https://www.iaeth.ch/)
+- [2013-2014] Board member of [Verband der Studierenden an der ETHZ (VSETH)](https://www.vseth.ethz.ch/)
 - [2012-2014] Board member of Kommission für Masterstudenten ohne ETH-Bachelor (MoEB)
 - [2011] Founder of CUSMIBIO Alumni association at University of Milan
+- [2008-current] Member of [XLab Göttingen Alumni](http://www.xlab-goettingen.de/)
 - [2008] Member of NYEX (Network for Youth Excellence)
 
 
