@@ -11,25 +11,42 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 <hr class="lighter"/>
 <div class="recent-posts">Upcoming events <div class="spanlighter"> by most recent</div></div>
 
-<div class="row">
-<div class="two columns"><img src="/assets/AWS_Summit2017.png"></div>
-<div class="six columns event-title"><a href="https://aws.amazon.com/de/summits/berlin/"><p>Participant at AWS Summit Berlin 2017</p></a></div>
-<div class="three columns" style="float:right;"><p>12-18 June 2017</p></div></div>
+
 
 <div class="row">
+
+<div class="row">
+<div class="two columns"><img src="/assets/mls.png"></div>
+<div class="six columns event-title"><a href="https://www.bc2.ch/2017/"><p>Participant at MLS PhD Retreat 2017 </p></a></div>
+<div class="three columns" style="float:right;">30 Aug - 1 Sept 2017</div></div>
+
+<div class="row">
+<div class="two columns"><img src="/assets/sib_logo_quadri_high_res.png"></div>
+<div class="six columns event-title"><a href="https://www.bc2.ch/2017/"><p>Participant at SIB TN PhD Retreat 2017 </p></a></div>
+<div class="three columns" style="float:right;">25-27 Sept 2017</div></div>
+
+<div class="row">
+<div class="two columns"><img src="/assets/sib_logo_quadri_high_res.png"></div>
+<div class="six columns event-title"><a href="https://www.bc2.ch/2017/"><p>Invited poster presentation at BioComp 2017 </p></a></div>
+<div class="three columns" style="float:right;">4 Oct 2017</div></div>
+
+<div class="row">
+<div class="two columns"><img src="/assets/University_of_Zurich_Logo.png"></div>
+<div class="six columns event-title"><a href="https://www.bc2.ch/2017/"><p>Invited speaker at IMLS - UZH in Prof. Christian von Mering's group </p></a></div>
+<div class="three columns" style="float:right;">6 Dec 2017</div></div>
+
+
+<hr class="lighter"/>
+<div class="recent-posts">Past events <div class="spanlighter"> by most recent</div></div>
+
 <div class="two columns"><img src="/assets/Lund_University_logotype.png"></div>
 <div class="six columns event-title"><a href="http://www.lunduniversity.lu.se/"><p>Teaching assistant in the course 'Computational Molecular Evolution: Detecting Positive Selection' with Maria Anisimova</p></a></div>
 <div class="three columns" style="float:right;"><p>12-18 June 2017</p></div></div>
 
 <div class="row">
-<div class="two columns"><img src="/assets/sib_logo_quadri_high_res.png"></div>
-<div class="six columns event-title"><a href="https://www.bc2.ch/2017/"><p>Participant at Basel Computational Biology Conference (ΒC2) </p></a></div>
-<div class="three columns" style="float:right;">12-15 Sept 2017</div></div>
-
-
-
-<hr class="lighter"/>
-<div class="recent-posts">Past events <div class="spanlighter"> by most recent</div></div>
+<div class="two columns"><img src="/assets/AWS_Summit2017.png"></div>
+<div class="six columns event-title"><a href="https://aws.amazon.com/de/summits/berlin/"><p>Participant at AWS Summit Berlin 2017</p></a></div>
+<div class="three columns" style="float:right;"><p>12-18 June 2017</p></div></div>
 
 <div class="row">
 <div class="two columns"><img src="/assets/Uni_innsbruck.png"></div>
@@ -51,6 +68,10 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 <div class="six columns event-title"><a href="http://www.embl.de/training/events/2016/BIG16-01/index.html"><p> Selected speaker at Big Data in Biology and Health 2016</p></a></div>
 <div class="three columns" style="float:right;"><p>25-27 Sept 2016</p></div></div>
 
+<div class="row">
+<div class="two columns"><img src="/assets/sib_logo_quadri_high_res.png"></div>
+<div class="six columns event-title"><a href="https://www.bc2.ch/2017/"><p>Participant at SIB TN PhD Retreat 2016 </p></a></div>
+<div class="three columns" style="float:right;">19 - 20 Sept 2017</div></div>
 
 <div class="row">
 <div class="two columns"><img src="/assets/tiho.png"></div>

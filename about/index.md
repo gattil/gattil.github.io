@@ -23,9 +23,13 @@ Starting from Feb'15, I joined [Dr. Maria Anisimova](https://www.zhaw.ch/en/abou
 
 I am currently studying the evolutionary molecular and epidemiological dynamics of viral diseases affecting the human population on a global scale.
 
+## Grants
+
+- 1 Feb 2018 - 31 Jan 2019: University of Zürich - Forschungskredit Candoc grant no.
+- 1 July 2015: UZH-ETH MLS Travel grant
 
 ## Teaching
-
+- [GENECO course - Computational Molecular Evolution: Detecting Positive Selection -  at University of Lund](http://lorenzogatti.me/2017-ACGT-Tutorials/)
 - [Frontiers in Plant Sciences 2016: Phd course in protein-coding evolution and detecting natural selection](http://gattil.github.io/2016_FiPS_Tutorials)
 - [ZHAW-SIB Summer School GEMP 2015: Genomics and Evolution of Microbial Pathogens](http://gemp2015.lifeinnumbers.ch/program/)
 
@@ -39,10 +43,13 @@ I am currently studying the evolutionary molecular and epidemiological dynamics 
 
 ## Software
 
+- [NetXDiscreteDynamics - Probabilistic framework for discrete evolutionary dynamic](https://github.com/gattil/netxDiscreteDynamics)
+- [Phylo-Tools - Phylogenetic tree manipulation toolbox](https://github.com/gattil/phylo-tools)
 - [Epitools - Image processing software for Epithelial Tissues](http://imls-bg-arthemis.uzh.ch/epitools-wiki/site/home/)
 
 
 ## Memberships
+- [2017-current] SIB PhD Training Network representative [Swiss Institute of Bioinformatics](http://sib.swiss)
 - [2016-current] Member of the scientific Board at [Swiss Institute of Queer Studies](http://queerstudies.ch)
 - [2015-current] Member of [Swiss Institute of Bioinformatics](http://sib.swiss)
 - [2015-2016] Member of MLS PhD Retreat Organising Committee 2016
