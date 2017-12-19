@@ -34,9 +34,9 @@ I am currently studying the evolutionary molecular and epidemiological dynamics 
 - [ZHAW-SIB Summer School GEMP 2015: Genomics and Evolution of Microbial Pathogens](http://gemp2015.lifeinnumbers.ch/program/)
 
 ## Publications
+1.  **Lorenzo Gatti**, Jitao David Zhang, Maria Anisimova, Martin Schutten, Albert Osterhaus, Erhard van der Vries,  Cross-reactive immunity drives global oscillation and opposed alternation patterns of seasonal influenza A viruses, BioRxiv (2017) [doi:10.1101/bioRxiv/226613](https://doi.org/10.1101/226613)
 
 1. Davide Heller, Andreas Hoppe, Simon Restrepo, **Lorenzo Gatti**, Alexander L. Tournier, Nicolas Tapon, Konrad Basler, and Yanlan Mao (2016). EpiTools: An Open-Source Image Analysis Toolkit for Quantifying Epithelial Growth Dynamics. Developmental Cell 36 (1) (January): 103–116. [doi:10.1016/j.devcel.2015.12.012](http://dx.doi.org/10.1016/j.devcel.2015.12.012)
-
 
 2. SIB members, including: Anisimova, Maria; **Gatti, Lorenzo**; Gil, Manuel (2015). The SIB Swiss Institute of Bioinformatics’ resources: focus on curated databases. In: Nucleic Acids Research. Oxford: Oxford University Press.
 [doi: 10.1093/nar/gkv1310](http://nar.oxfordjournals.org/content/early/2015/11/27/nar.gkv1310.abstract).
