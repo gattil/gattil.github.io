@@ -19,13 +19,15 @@ From June'14 to Jan'15, after my master thesis project on modelling D. melanogas
 
 Starting from Feb'15, I joined [Dr. Maria Anisimova](https://www.zhaw.ch/en/about-us/person/anis/) bioinformatics group as a PhD candidate in computational science and phylogenetics at Zurich University of Applied Sciences in Wädenswil (ZH).
 
+Since Feb'18, I moved back to University of Zurich to complete my PhD in the group of [Prof. Dr. Christian von Mering](http://www.imls.uzh.ch/en/research/vonmering.html).
+
 ## Research
 
 I am currently studying the evolutionary molecular and epidemiological dynamics of viral diseases affecting the human population on a global scale.
 
 ## Grants
 
-- 1 Feb 2018 - 31 Jan 2019: University of Zürich - Forschungskredit Candoc grant no.
+- 1 Feb 2018 - 31 Jan 2019: University of Zürich - Forschungskredit Candoc grant no. K-74409-01-01
 - 1 July 2015: UZH-ETH MLS Travel grant
 
 ## Teaching
