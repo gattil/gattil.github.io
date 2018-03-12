@@ -24,7 +24,7 @@ sass:
 title:                Lorenzo Gatti
 tagline:              'Doctoral candidate in Computational Sciences and Phylogenomics'
 keywords:             'molecular evolution, computer science, evolution, dynamics, phylogenomics, trees, computational biology, bioinformatics'
-description:          'Doctoral candidate in computational sciences and phylogeneomics @ Zurich University of Applied Sciences, Wädenswil (CH)'
+description:          'Doctoral candidate in computational sciences and phylogeneomics @ University of Zurich (CH)'
 image:                /assets/lorenzo.jpg
 logo:                 /assets/logo.png
 url:                  http://lorenzogatti.me
@@ -36,14 +36,14 @@ google_analytics_key: UA-73302940-1
 author:
   name:               Lorenzo Gatti
   url:                http://lorenzogatti.me
-  email:              hello@lorenzogatti.me
+  email:              lg@lorenzogatti.me
   twitter:            lore_89
 
 ## outputs the social links in the sidebar, leave url blank to omit a social network, re-arrange to change order
 social:
-  ZHAW:               https://www.zhaw.ch/en/about-us/person/gati/
+  UZH:                http://www.imls.uzh.ch/en/research/vonmering/people/lorenzo-gatti.html
   ResearchGate:       https://www.researchgate.net/profile/Lorenzo_Gatti
-  academica:          https://zhaw.academia.edu/LorenzoGatti
+  academica:          https://uzh.academia.edu/LorenzoGatti
   twitter:            https://twitter.com/lore_89
 
 version:              2.0.0
