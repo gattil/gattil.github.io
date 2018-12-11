@@ -3,10 +3,7 @@ layout: page
 title: Events
 ---
 
-
 I often travel around Europe to attend courses, conferences and workshops. Here are the events I have attended, and may attend in the future.
-
-
 
 <hr class="lighter"/>
 <div class="recent-posts">Upcoming events <div class="spanlighter"> by most recent</div></div>
@@ -14,20 +11,32 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 
 
 <div class="row">
+<hr class="lighter"/>
+<div class="recent-posts">Past events <div class="spanlighter"> by most recent</div>
+</div>
+
+
+<div class="row">
+<div class="two columns"><img src="/assets/2000px-Amazon_Web_Services_Logo.png"></div>
+<div class="six columns event-title"><a href="https://aws.amazon.com/de/events/aws-cloud-summer-school-switzerland">
+<p>Selected trainee at AWS Cloud Summer School Switzerland (ACS3) - Digicomp Academy AG </p></a>
+</div>
+<div class="three columns" style="float:right;">3-7 Sept 2018</div>
+</div>
+
+
 
 <div class="row">
 <div class="two columns"><img src="/assets/UCL.png"></div>
 <div class="six columns event-title"><a href="https://www.eventbrite.co.uk/e/phylogroup-xi-tickets-40021321851?utm_source=eb_email&utm_medium=email&utm_campaign=order_confirmation_email&utm_term=eventname&ref=eemailordconf"><p>Speaker at Phylogroup XI - University College London </p></a></div>
-<div class="three columns" style="float:right;">28 Mar 2018</div></div>
+<div class="three columns" style="float:right;">28 Mar 2018</div>
+</div>
 
 <div class="row">
 <div class="two columns"><img src="/assets/University_of_Zurich_Logo.png"></div>
 <div class="six columns event-title"><a href="http://lorenzogatti.me/2017-ACGT-Tutorials/"><p>Teaching assistant at Protein-coding Evolution and Detecting Natural Selection</p></a></div>
-<div class="three columns" style="float:right;"><p>18-20 Jun 2018</p></div></div>
-
-
-<hr class="lighter"/>
-<div class="recent-posts">Past events <div class="spanlighter"> by most recent</div></div>
+<div class="three columns" style="float:right;"><p>18-20 Jun 2018</p></div>
+</div>
 
 <div class="row">
 <div class="two columns"><img src="/assets/University_of_Zurich_Logo.png"></div>
@@ -43,7 +52,6 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 <div class="two columns"><img src="/assets/sib_logo_quadri_high_res.png"></div>
 <div class="six columns event-title"><a href="https://www.bc2.ch/2017/"><p>Participant at SIB TN PhD Retreat 2017 </p></a></div>
 <div class="three columns" style="float:right;">25-27 Sept 2017</div></div>
-
 
 <div class="row">
 <div class="two columns"><img src="/assets/mls.png"></div>
@@ -99,7 +107,6 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 <div class="six columns event-title"><a href="http://www.biodiv.wzw.tum.de/index.php?id=2"><p>Visiting doctoral candidate at Wissenschaftszentrum Weihenstephan für Ernährung, Landnutzung und Umwelt -- Technische Universität München (TUM) -- Freising (DE)</p></a></div>
 <div class="three columns" style="float:right;"><p>7-11 July 2016</p></div></div>
 
-
 <div class="row">
 <div class="two columns"><img src="/assets/sib_logo_quadri_high_res.png"></div>
 <div class="six columns event-title"><a href="https://intranet.isb-sib.ch/pages/viewpage.action?spaceKey=PHYL&title=PhyloSIB+2016"><p>Organiser of PhyloSIB</p></a></div>
@@ -110,12 +117,10 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 <div class="six columns event-title"><a href="http://sib.swiss/events/sibdays2016/home"><p>Invited speaker and poster session at SIB Days</p></a></div>
 <div class="three columns" style="float:right;"><p>7-8 June 2016</p></div></div>
 
-
 <div class="row">
 <div class="two columns"><img src="/assets/University_of_Zurich_Logo.png"></div>
 <div class="six columns event-title"><a href="http://www.nanotalks.uzh.ch/index.html"><p>Invited speaker at NanoTalks</p></a></div>
 <div class="three columns" style="float:right;"><p>26 May 2016</p></div></div>
-
 
 <div class="row">
 <div class="two columns"><img src="/assets/EMBO_logo_tagline_CMYKblack_outlined.png"></div>
@@ -151,7 +156,6 @@ I often travel around Europe to attend courses, conferences and workshops. Here 
 <div class="two columns"><img src="/assets/zhaw.png"></div>
 <div class="six columns event-title"><a href="http://2015.lifeinnumbers.ch/summary/"><p>Invited speaker at Life in Numbers 2</p></a></div>
 <div class="three columns" style="float:right;"><p>1 Sept 2015</p></div></div>
-
 
 <div class="row">
 <div class="two columns"><img src="/assets/sib_logo_quadri_high_res.png"></div>

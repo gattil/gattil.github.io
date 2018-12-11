@@ -24,9 +24,9 @@ sass:
 title:                Lorenzo Gatti
 tagline:              'Doctoral candidate in Computational Sciences and Phylogenomics'
 keywords:             'molecular evolution, computer science, evolution, dynamics, phylogenomics, trees, computational biology, bioinformatics'
-description:          'Doctoral candidate in computational sciences and phylogeneomics @ University of Zurich (CH)'
-image:                /assets/lorenzo.jpg
-logo:                 /assets/logo.png
+description:          'Doctoral candidate in computational sciences and phylogenomics @ University of Zurich (CH)'
+image:                http://lorenzogatti.me/assets/lorenzo.jpg
+logo:                 http://lorenzogatti.me/assets/logo.png
 url:                  http://lorenzogatti.me
 baseurl:              ''
 
@@ -51,6 +51,11 @@ version:              2.0.0
 github:
   repo:               https://github.com/gattil
 
+bitbucket:
+  repo:               https://bitbucket.com/lorenzogatti89/
+
+jira:
+  url:               https://devops.lorenzogatti.me/
 
 # /* Predefined theme colors */
 # $red: #ac4142;

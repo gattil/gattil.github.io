@@ -21,6 +21,8 @@ Starting from Feb'15, I joined [Dr. Maria Anisimova](https://www.zhaw.ch/en/abou
 
 Since Feb'18, I moved back to University of Zurich to complete my PhD in the group of [Prof. Dr. Christian von Mering](http://www.imls.uzh.ch/en/research/vonmering.html).
 
+On 4th Dec'18, I defended my PhD thesis titled "Realistic Evolutionary Models for Phylogenetic-Guided Analyses" and I successfully passed the doctoral exam at University of Zurich.
+
 ## Research
 
 I am currently studying the evolutionary molecular and epidemiological dynamics of viral diseases affecting the human population on a global scale.
@@ -45,15 +47,18 @@ I am currently studying the evolutionary molecular and epidemiological dynamics 
 
 ## Software
 
-- [NetXDiscreteDynamics - Probabilistic framework for discrete evolutionary dynamic](https://github.com/gattil/netxDiscreteDynamics)
-- [Phylo-Tools - Phylogenetic tree manipulation toolbox](https://github.com/gattil/phylo-tools)
-- [Epitools - Image processing software for Epithelial Tissues](http://imls-bg-arthemis.uzh.ch/epitools-wiki/site/home/)
+- [Castor](https://bitbucket.org/lorenzogatti89/castor). Indel-Aware Phylogenetic Tree Inference Software
+- [Castor AWS](https://bitbucket.org/lorenzogatti89/castor-aws). Auto-scaling On-Demand Indel-Aware Phylogenetic Tree Inference on the public cloud
+- [Tree Search Heuristic Library](https://bitbucket.org/lorenzogatti89/tshlib). The Unified Tree-Search Heuristic C++ Library (TSH-LIB) is a new unified implementation of binary tree topological searching engines for phylogenetic analyses.
+- [NetXDiscreteDynamics](https://github.com/gattil/netxDiscreteDynamics). Probabilistic framework for discrete evolutionary dynamic
+- [Phylo-Tools](https://github.com/gattil/phylo-tools). Phylogenetic tree manipulation toolbox
+- [Epitools](http://imls-bg-arthemis.uzh.ch/epitools-wiki/site/home/). Image processing software for Epithelial Tissues
 
 
 ## Memberships
 - [2017-current] SIB PhD Training Network representative [Swiss Institute of Bioinformatics](http://sib.swiss)
 - [2016-current] Member of the scientific Board at [Swiss Institute of Queer Studies](http://queerstudies.ch)
-- [2015-current] Member of [Swiss Institute of Bioinformatics](http://sib.swiss)
+- [2015-2018] Member of [Swiss Institute of Bioinformatics](http://sib.swiss)
 - [2015-2016] Member of MLS PhD Retreat Organising Committee 2016
 - [2015-2016] Member of the UZH - ETHZ MLS PhD program steering committee
 - [2014-current] Member of [Verein Informatik-Alumni ETH Zürich (IAETH)](https://www.iaeth.ch/)
