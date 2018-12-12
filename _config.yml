@@ -26,7 +26,7 @@ tagline:              'Doctoral candidate in Computational Sciences and Phylogen
 keywords:             'molecular evolution, computer science, evolution, dynamics, phylogenomics, trees, computational biology, bioinformatics'
 description:          'Doctoral candidate in computational sciences and phylogenomics @ University of Zurich (CH)'
 image:                /assets/lorenzo.jpg
-logo:                 assets/logo.png
+logo:                 /assets/logo.png
 url:                  http://lorenzogatti.me
 baseurl:              ''
 
