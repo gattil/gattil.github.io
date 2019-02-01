@@ -17,15 +17,13 @@ In Feb'13 I joined [Prof. Konrad Basler](http://www.imls.uzh.ch/en/research/basl
 
 From June'14 to Jan'15, after my master thesis project on modelling D. melanogaster tubular organs through FEM simulations, I was a Research Assistant under the supervision of [Prof. Konrad Basler (UZH)](http://www.imls.uzh.ch/en/research/basler.html) and [Dr. Yanlan Mao (UCL)](http://www.ucl.ac.uk/lmcb/users/yanlan-mao). In this period of time, I was involved in the software engineering of [EpiTools](http://imls-bg-arthemis.uzh.ch/epitools-wiki/site/home/), an image processing software for epithelial tissues.
 
-Starting from Feb'15, I joined [Dr. Maria Anisimova](https://www.zhaw.ch/en/about-us/person/anis/) bioinformatics group as a PhD candidate in computational science and phylogenetics at Zurich University of Applied Sciences in Wädenswil (ZH).
+On Feb'15, I joined [Dr. Maria Anisimova](https://www.zhaw.ch/en/about-us/person/anis/) bioinformatics group as a PhD candidate in computational science and phylogenetics at Zurich University of Applied Sciences in Wädenswil (ZH). In Feb'18, I moved back to University of Zurich to complete my PhD in the group of [Prof. Dr. Christian von Mering](http://www.imls.uzh.ch/en/research/vonmering.html). On 4<sup>th</sup> Dec'18, I defended my PhD thesis titled "Realistic Evolutionary Models for Phylogenetic-Guided Analyses" and I successfully passed the doctoral exam at University of Zurich.
 
-Since Feb'18, I moved back to University of Zurich to complete my PhD in the group of [Prof. Dr. Christian von Mering](http://www.imls.uzh.ch/en/research/vonmering.html).
-
-On 4th Dec'18, I defended my PhD thesis titled "Realistic Evolutionary Models for Phylogenetic-Guided Analyses" and I successfully passed the doctoral exam at University of Zurich.
+On Feb, 1<sup>st</sup> '19, I started working as <strong>Cloud Architect</strong> at [Amanox Solutions](http://www.amanox.ch), in Bern (CH).
 
 ## Research
 
-I am currently studying the evolutionary molecular and epidemiological dynamics of viral diseases affecting the human population on a global scale.
+I studied the evolutionary molecular and epidemiological dynamics of viral diseases affecting the human population on a global scale, and how to implement a new class of evolutionary models which account for incorporing insertion and deletions events into phylogenetic reconstruction.
 
 ## Grants
 
@@ -56,7 +54,7 @@ I am currently studying the evolutionary molecular and epidemiological dynamics 
 
 
 ## Memberships
-- [2017-current] SIB PhD Training Network representative [Swiss Institute of Bioinformatics](http://sib.swiss)
+- [2017-2019] SIB PhD Training Network representative [Swiss Institute of Bioinformatics](http://sib.swiss)
 - [2016-current] Member of the scientific Board at [Swiss Institute of Queer Studies](http://queerstudies.ch)
 - [2015-2018] Member of [Swiss Institute of Bioinformatics](http://sib.swiss)
 - [2015-2016] Member of MLS PhD Retreat Organising Committee 2016
