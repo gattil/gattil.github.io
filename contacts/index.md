@@ -7,20 +7,12 @@ author: Lorenzo
 
 ### Lorenzo Gatti
 
-[Institute of Molecular Life Sciences](http://www.imls.uzh.ch/en/research/vonmering/people/lorenzo-gatti.html)<br />
-University of Zurich<br />
-Y55-L-56<br />
-Winterthurerstrasse 190<br />
-CH-8057 Zurich<br />
+[Amanox Solutions AG](http://www.amanox.ch/)<br />
+Falkenplatz 11<br />
+CH-3012 Bern<br />
 Switzerland<br />
-Phone: +41 44 63 53148<br />
-
-<!--[Applied Computational Genomics Team](https://www.zhaw.ch/de/lsfm/institute-zentren/ias/forschung/predictive-bio-inspired-modeling/computational-genomics/) <br />
-[Institute of Applied Simulations](https://www.zhaw.ch/de/lsfm/dienstleistung/institut-fuer-angewandte-simulation/) <br />
-ZHAW Life Sciences und Facility Management <br />
-Einsidlerstrasse 31A <br />
-[8820 Wädenswil](https://www.google.ch/maps/@47.4870383,8.730308,13z?hl=en) -->
-
+Phone: +41 (0) 31 320 10 80 <br />
+Mobile: +41 (0) 78 829 23 55<br />
 
 ### Public SSH-key
 

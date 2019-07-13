@@ -21,13 +21,13 @@ sass:
 
 
 # Site meta
-title:                Lorenzo Gatti
-tagline:              'Doctoral candidate in Computational Sciences and Phylogenomics'
-keywords:             'molecular evolution, computer science, evolution, dynamics, phylogenomics, trees, computational biology, bioinformatics'
-description:          'Doctoral candidate in computational sciences and phylogenomics @ University of Zurich (CH)'
+title:                Lorenzo Gatti, Ph.D
+tagline:              'Cloud Engineer interested in high performance cloud computing, data analytics, and business intelligence'
+keywords:             'cloud, data analytics, business intelligence, cloud computing, aws, hpc, high performance computing, molecular evolution, computer science, evolution, dynamics, phylogenomics, trees, computational biology, bioinformatics'
+description:          'Cloud Engineer interested in high performance cloud computing, data analytics, and business intelligence'
 image:                /assets/lorenzo.jpg
 logo:                 /assets/logo.png
-url:                  http://lorenzogatti.me
+url:                  https://lorenzogatti.me
 baseurl:              ''
 
 ## replace analytics key below to enable tracking, leave blank to disable
@@ -35,16 +35,17 @@ google_analytics_key: UA-73302940-1
 
 author:
   name:               Lorenzo Gatti
-  url:                http://lorenzogatti.me
+  url:                https://lorenzogatti.me
   email:              lg@lorenzogatti.me
   twitter:            lore_89
 
 ## outputs the social links in the sidebar, leave url blank to omit a social network, re-arrange to change order
 social:
-  UZH:                http://www.imls.uzh.ch/en/research/vonmering/people/lorenzo-gatti.html
+  LinkedIn:           https://www.linkedin.com/in/lorenzogatti
+  twitter:            https://twitter.com/lore_89
   ResearchGate:       https://www.researchgate.net/profile/Lorenzo_Gatti
   academica:          https://uzh.academia.edu/LorenzoGatti
-  twitter:            https://twitter.com/lore_89
+
 
 version:              2.0.0
 

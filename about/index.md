@@ -19,7 +19,7 @@ From June'14 to Jan'15, after my master thesis project on modelling D. melanogas
 
 On Feb'15, I joined [Dr. Maria Anisimova](https://www.zhaw.ch/en/about-us/person/anis/) bioinformatics group as a PhD candidate in computational science and phylogenetics at Zurich University of Applied Sciences in Wädenswil (ZH). In Feb'18, I moved back to University of Zurich to complete my PhD in the group of [Prof. Dr. Christian von Mering](http://www.imls.uzh.ch/en/research/vonmering.html). On 4<sup>th</sup> Dec'18, I defended my PhD thesis titled "Realistic Evolutionary Models for Phylogenetic-Guided Analyses" and I successfully passed the doctoral exam at University of Zurich.
 
-On Feb, 1<sup>st</sup> '19, I started working as <strong>Cloud Architect</strong> at [Amanox Solutions](http://www.amanox.ch), in Bern (CH).
+On Feb, 1<sup>st</sup> '19, I started working as <strong>Cloud Architect</strong> at [Amanox Solutions AG](http://www.amanox.ch), in Bern (CH).
 
 ## Research
 

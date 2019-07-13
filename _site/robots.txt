@@ -1,1 +1,1 @@
-Sitemap: http://lorenzogatti.me/sitemap.xml
+Sitemap: https://lorenzogatti.me/sitemap.xml
