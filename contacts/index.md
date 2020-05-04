@@ -7,11 +7,9 @@ author: Lorenzo
 
 ### Lorenzo Gatti
 
-[Amanox Solutions AG](http://www.amanox.ch/)<br />
-Falkenplatz 11<br />
-CH-3012 Bern<br />
+Ueberlandstrasse 15<br />
+CH-8050 Zürich<br />
 Switzerland<br />
-Phone: +41 (0) 31 320 10 80 <br />
 Mobile: +41 (0) 78 829 23 55<br />
 
 ### Public SSH-key

@@ -7,19 +7,37 @@ author: Lorenzo
 
 I was born in Brescia in 1989. I grew up in Franciacorta's country side, a beautiful place where you can appreciate the incredible landscapes drinking superb wines.
 
-From Sept'03 until June'08 I attended the high school @ Istituto Madonna della Neve in Adro (BS) - IT where I focused my attention on classical studies and in June'08 I obtained the "Maturità Classica" (humanistic studies) high school degree.
+From Sept '03 until June'08 I attended the high school @ Istituto Madonna della Neve in Adro (BS) - IT where I focused my attention on classical studies and in June '08 I obtained the "Maturità Classica" (humanistic studies) high school degree.
 
-I decided to shift my studies into biological sciences from 2008 until 2011, period of time during which I studied and I obtained the Industrial and Environmental Biotechnology bachelor degree @ University of Milan - IT on Oct'11.
+I decided to shift my studies into biological sciences from 2008 until 2011, period of time during which I studied and I obtained the Industrial and Environmental Biotechnology bachelor degree @ University of Milan - IT on Oct '11.
 
-I moved to Zürich (Switzerland) on Feb'12 where I attended a two-years Master Course in Computational Biology and Bioinformatic @ Eidgenössische Technische Hochschule Zürich (ETHZ).
+I moved to Zürich (Switzerland) on Feb '12 where I attended a two-years Master Course in Computational Biology and Bioinformatic @ Eidgenössische Technische Hochschule Zürich (ETHZ).
 
-In Feb'13 I joined [Prof. Konrad Basler](http://www.imls.uzh.ch/en/research/basler.html) group for a small research project (lab rotation) @ IMLS (Institute of Molecular Life Sciences - University of Zürich) under the supervision of [Dr. Simon Restrepo](http://bioimaging.usc.edu/index.html) that successfully ended in Oct'13.
+In Feb '13 I joined [Prof. Konrad Basler](http://www.imls.uzh.ch/en/research/basler.html) group for a small research project (lab rotation) @ IMLS (Institute of Molecular Life Sciences - University of Zürich) under the supervision of [Dr. Simon Restrepo](http://bioimaging.usc.edu/index.html) that successfully ended in Oct'13.
 
-From June'14 to Jan'15, after my master thesis project on modelling D. melanogaster tubular organs through FEM simulations, I was a Research Assistant under the supervision of [Prof. Konrad Basler (UZH)](http://www.imls.uzh.ch/en/research/basler.html) and [Dr. Yanlan Mao (UCL)](http://www.ucl.ac.uk/lmcb/users/yanlan-mao). In this period of time, I was involved in the software engineering of [EpiTools](http://imls-bg-arthemis.uzh.ch/epitools-wiki/site/home/), an image processing software for epithelial tissues.
+From June '14 to Jan '15, after my master thesis project on modelling D. melanogaster tubular organs through FEM simulations, I was a Research Assistant under the supervision of [Prof. Konrad Basler (UZH)](http://www.imls.uzh.ch/en/research/basler.html) and [Dr. Yanlan Mao (UCL)](http://www.ucl.ac.uk/lmcb/users/yanlan-mao). In this period of time, I was involved in the software engineering of [EpiTools](http://imls-bg-arthemis.uzh.ch/epitools-wiki/site/home/), an image processing software for epithelial tissues.
 
-On Feb'15, I joined [Dr. Maria Anisimova](https://www.zhaw.ch/en/about-us/person/anis/) bioinformatics group as a PhD candidate in computational science and phylogenetics at Zurich University of Applied Sciences in Wädenswil (ZH). In Feb'18, I moved back to University of Zurich to complete my PhD in the group of [Prof. Dr. Christian von Mering](http://www.imls.uzh.ch/en/research/vonmering.html). On 4<sup>th</sup> Dec'18, I defended my PhD thesis titled "Realistic Evolutionary Models for Phylogenetic-Guided Analyses" and I successfully passed the doctoral exam at University of Zurich.
+In Feb'15, I joined [Dr. Maria Anisimova](https://www.zhaw.ch/en/about-us/person/anis/) bioinformatics group as a PhD candidate in computational science and phylogenetics at Zurich University of Applied Sciences in Wädenswil (ZH). In Feb '18, I moved back to University of Zurich to complete my PhD in the group of [Prof. Dr. Christian von Mering](http://www.imls.uzh.ch/en/research/vonmering.html). On 4<sup>th</sup> Dec '18, I defended my PhD thesis titled "Realistic Evolutionary Models for Phylogenetic-Guided Analyses" and I successfully passed the doctoral exam at University of Zurich.
 
-On Feb, 1<sup>st</sup> '19, I started working as <strong>Cloud Architect</strong> at [Amanox Solutions AG](http://www.amanox.ch), in Bern (CH).
+Since Aug, '19, I am a non-executive board member of [Country Rose SRL](https://navacamicie.com), a shirt company founded by my parents. In this role, I am responsible for:
+- Strategic consulting and development lead for logistic and manufacturing processes
+- Development of web-application for data aggregation and financial transaction processing
+- Design, deployment and maintenance of network and unified communication infrastructure
+- Maintenance of heterogeneous and legacy IT environments
+
+Until Apr '20, I worked as <strong>Cloud Engineer/Architect</strong> at [Amanox Solutions AG](http://www.amanox.ch), in Bern (CH), and in this role:
+- I was involved in the definition, the implementation, and the support of cutting-edge data analytics and machine learning projects.
+- I promoted the introduction of DevSecOps strategies for the development and deployment of applications and services on the cloud
+- I advised on how to develop elastic solutions using stateless deployments and serverless infrastructure.
+- I devised solutions which leveraged cloud architecture best practices, and the implementation of cloud adoption frameworks to ensure data integrity and the minimisation of possible failure scenarios.
+
+I assisted many customers during their journey to the cloud. Among my clients, I worked with:
+- [Fisch Asset Management, Zürich](https://www.fam.ch/)
+- [Institut Straumann AG, Basel](https://www.straumann.com/)
+- [Clariant, Basel](https://www.clariant.com/)
+- [Alpiq, Olten](https://www.alpiq.com/)
+
+
 
 ## Research
 
