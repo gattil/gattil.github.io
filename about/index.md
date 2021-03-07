@@ -35,7 +35,7 @@ I assisted many customers during their journey to the cloud. Among my clients, I
 - [Fisch Asset Management, Zürich](https://www.fam.ch/)
 - [Institut Straumann AG, Basel](https://www.straumann.com/)
 - [Clariant, Basel](https://www.clariant.com/)
-- [Alpiq, AG](https://www.alpiq.com/)
+- [Alpiq AG, Olten](https://www.alpiq.com/)
 
 In June '20, I started working in the Digital & Commerce Tecnology department at [Alpiq, AG](https://www.alpiq.com/). At first I covered the role of <strong>Cloud Engineer</strong> in the Application Operation Support team, and lately I took on the responsibility as <strong>Technical Lead</strong>. In this role, I coordinate the implementation and execution of business-driven cloud projects, and I support the introduction of DevSecOps strategies and cloud-inspired engineering best practices.
 
