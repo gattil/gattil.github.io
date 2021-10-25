@@ -21,11 +21,12 @@ sass:
 
 
 # Site meta
-title:                Lorenzo Gatti, Ph.D
+title:                Dr. sc. nat.
+name:                 Lorenzo Gatti
 tagline:              'Cloud Engineer interested in high performance cloud computing, data analytics, and business intelligence'
 keywords:             'cloud, data analytics, business intelligence, cloud computing, aws, hpc, high performance computing, molecular evolution, computer science, evolution, dynamics, phylogenomics, trees, computational biology, bioinformatics'
 description:          'Cloud Engineer interested in high performance cloud computing, data analytics, and business intelligence'
-image:                /assets/lorenzo.jpg
+image:                /assets/about/lorenzo3.jpg
 logo:                 /assets/logo.png
 url:                  https://lorenzogatti.me
 baseurl:              ''

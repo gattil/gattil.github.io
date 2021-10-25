@@ -1,35 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
 <loc>https://lorenzogatti.me/2016/05/15/human-influenza-dynamics-teaser.html</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/2016/05/15/human-influenza-dynamics-teaser.html" /><xhtml:link rel="alternate" hreflang="en" href="https://lorenzogatti.me/2016/02/22/introducing-summer.html" /><xhtml:link rel="alternate" hreflang="en" href="https://lorenzogatti.me/2016/02/07/example-content.html" /><xhtml:link rel="alternate" hreflang="en" href="https://lorenzogatti.me/2016/02/06/whats-jekyll.html" />
 <lastmod>2016-05-15T00:00:00+02:00</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>https://lorenzogatti.me/about/</loc>
+<loc>https://lorenzogatti.me/2016/02/22/introducing-summer.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://lorenzogatti.me/2016/02/22/introducing-summer.html" />
+<lastmod>2016-02-22T00:00:00+01:00</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>https://lorenzogatti.me/events/</loc>
+<loc>https://lorenzogatti.me/2016/02/07/example-content.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://lorenzogatti.me/2016/02/07/example-content.html" />
+<lastmod>2016-02-07T00:00:00+01:00</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>https://lorenzogatti.me/contacts/</loc>
+<loc>https://lorenzogatti.me/2016/02/06/whats-jekyll.html</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://lorenzogatti.me/2016/02/06/whats-jekyll.html" />
+<lastmod>2016-02-06T00:00:00+01:00</lastmod>
+<changefreq>weekly</changefreq>
 </url>
 <url>
-<loc>https://lorenzogatti.me/fhj/</loc>
-</url>
-<url>
-<loc>https://lorenzogatti.me/assets/6f7fc1ea-9322-40c3-8c67-5f0e10cbdf08.pdf</loc>
-<lastmod>2017-08-25T10:00:21+02:00</lastmod>
-</url>
-<url>
-<loc>https://lorenzogatti.me/assets/CV_LGatti.pdf</loc>
-<lastmod>2020-05-02T09:53:37+02:00</lastmod>
-</url>
-<url>
-<loc>https://lorenzogatti.me/assets/c6fe1a31-1f57-4adb-a3a7-3f168ba7e701.pdf</loc>
-<lastmod>2017-08-25T10:00:21+02:00</lastmod>
-</url>
-<url>
-<loc>https://lorenzogatti.me/assets/f9d31293-e28d-4a89-a6fd-097952f5c1b2.pdf</loc>
-<lastmod>2017-08-25T10:00:21+02:00</lastmod>
+<loc>https://lorenzogatti.me/404.html</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/404.html" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/atom.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/03_flying/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/05_fhj/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/04_events/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/06_contacts/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/01_about/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/02_research/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/sitemap.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/assets/styles.css" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/redirects.json" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/robots.txt" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>https://lorenzogatti.me/atom.xml</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/404.html" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/atom.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/03_flying/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/05_fhj/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/04_events/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/06_contacts/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/01_about/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/02_research/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/sitemap.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/assets/styles.css" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/redirects.json" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/robots.txt" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>https://lorenzogatti.me/03_flying/</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/404.html" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/atom.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/03_flying/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/05_fhj/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/04_events/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/06_contacts/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/01_about/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/02_research/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/sitemap.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/assets/styles.css" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/redirects.json" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/robots.txt" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>https://lorenzogatti.me/05_fhj/</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/404.html" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/atom.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/03_flying/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/05_fhj/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/04_events/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/06_contacts/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/01_about/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/02_research/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/sitemap.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/assets/styles.css" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/redirects.json" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/robots.txt" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>https://lorenzogatti.me/04_events/</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/404.html" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/atom.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/03_flying/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/05_fhj/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/04_events/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/06_contacts/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/01_about/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/02_research/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/sitemap.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/assets/styles.css" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/redirects.json" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/robots.txt" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>https://lorenzogatti.me/06_contacts/</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/404.html" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/atom.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/03_flying/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/05_fhj/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/04_events/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/06_contacts/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/01_about/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/02_research/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/sitemap.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/assets/styles.css" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/redirects.json" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/robots.txt" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>https://lorenzogatti.me/01_about/</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/404.html" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/atom.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/03_flying/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/05_fhj/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/04_events/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/06_contacts/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/01_about/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/02_research/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/sitemap.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/assets/styles.css" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/redirects.json" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/robots.txt" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>https://lorenzogatti.me/02_research/</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/404.html" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/atom.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/03_flying/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/05_fhj/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/04_events/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/06_contacts/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/01_about/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/02_research/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/sitemap.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/assets/styles.css" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/redirects.json" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/robots.txt" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>https://lorenzogatti.me/</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/404.html" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/atom.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/03_flying/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/05_fhj/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/04_events/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/06_contacts/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/01_about/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/02_research/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/sitemap.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/assets/styles.css" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/redirects.json" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/robots.txt" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>https://lorenzogatti.me/sitemap.xml</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/404.html" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/atom.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/03_flying/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/05_fhj/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/04_events/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/06_contacts/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/01_about/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/02_research/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/sitemap.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/assets/styles.css" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/redirects.json" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/robots.txt" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>https://lorenzogatti.me/assets/styles.css</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/404.html" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/atom.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/03_flying/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/05_fhj/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/04_events/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/06_contacts/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/01_about/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/02_research/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/sitemap.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/assets/styles.css" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/redirects.json" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/robots.txt" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>https://lorenzogatti.me/redirects.json</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/404.html" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/atom.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/03_flying/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/05_fhj/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/04_events/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/06_contacts/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/01_about/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/02_research/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/sitemap.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/assets/styles.css" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/redirects.json" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/robots.txt" />
+<changefreq>weekly</changefreq>
+</url><url>
+<loc>https://lorenzogatti.me/robots.txt</loc>
+<xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/404.html" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/atom.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/03_flying/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/05_fhj/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/04_events/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/06_contacts/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/01_about/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/02_research/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/sitemap.xml" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/assets/styles.css" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/redirects.json" /><xhtml:link rel="alternate" hreflang="" href="https://lorenzogatti.me/robots.txt" />
+<changefreq>weekly</changefreq>
 </url>
 </urlset>

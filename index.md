@@ -2,7 +2,7 @@
 layout: default
 title: Home
 redirect_to:
-  - about/index.html
+  - 01_about/index.html
 ---
 
 <div class="posts">

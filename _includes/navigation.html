@@ -8,8 +8,8 @@
       <ul>
         <!--<li><a href="javascript:history.back()">Go Back</a></li>-->
         <li><a href="javascript:document.location.href='/';">Home</a></li>
-        {% assign pages_list = site.pages %}
-        {% for node in pages_list %}
+        {% assign sorted_pages = site.pages | sort:"order" %}
+        {% for node in sorted_pages %}
           {% if node.title != null %}
             {% if node.layout == "page" %}
               <li><a id="{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
