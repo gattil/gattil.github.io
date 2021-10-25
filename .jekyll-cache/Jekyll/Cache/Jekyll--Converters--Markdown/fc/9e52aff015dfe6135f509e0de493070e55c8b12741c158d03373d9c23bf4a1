@@ -1,0 +1,99 @@
+I"m$<p>I was born in Brescia in 1989. I grew up in Franciacorta’s country side, a beautiful place where you can appreciate the incredible landscapes drinking superb wines.</p>
+
+<p>From Sept ‘03 until June’08 I attended the high school @ Istituto Madonna della Neve in Adro (BS) - IT where I focused my attention on classical studies and in June ‘08 I obtained the “Maturità Classica” (humanistic studies) high school degree.</p>
+
+<p>I decided to shift my studies into biological sciences from 2008 until 2011, period of time during which I studied and I obtained the Industrial and Environmental Biotechnology bachelor degree @ University of Milan - IT on Oct ‘11.</p>
+
+<p>I moved to Zürich (Switzerland) on Feb ‘12 where I attended a two-years Master Course in Computational Biology and Bioinformatic @ Eidgenössische Technische Hochschule Zürich (ETHZ).</p>
+
+<p>In Feb ‘13 I joined <a href="http://www.imls.uzh.ch/en/research/basler.html">Prof. Konrad Basler</a> group for a small research project (lab rotation) @ IMLS (Institute of Molecular Life Sciences - University of Zürich) under the supervision of <a href="http://bioimaging.usc.edu/index.html">Dr. Simon Restrepo</a> that successfully ended in Oct’13.</p>
+
+<p>From June ‘14 to Jan ‘15, after my master thesis project on modelling D. melanogaster tubular organs through FEM simulations, I was a Research Assistant under the supervision of <a href="http://www.imls.uzh.ch/en/research/basler.html">Prof. Konrad Basler (UZH)</a> and <a href="http://www.ucl.ac.uk/lmcb/users/yanlan-mao">Dr. Yanlan Mao (UCL)</a>. In this period of time, I was involved in the software engineering of <a href="http://imls-bg-arthemis.uzh.ch/epitools-wiki/site/home/">EpiTools</a>, an image processing software for epithelial tissues.</p>
+
+<p>In Feb’15, I joined <a href="https://www.zhaw.ch/en/about-us/person/anis/">Dr. Maria Anisimova</a> bioinformatics group as a PhD candidate in computational science and phylogenetics at Zurich University of Applied Sciences in Wädenswil (ZH). In Feb ‘18, I moved back to University of Zurich to complete my PhD in the group of <a href="http://www.imls.uzh.ch/en/research/vonmering.html">Prof. Dr. Christian von Mering</a>. On 4<sup>th</sup> Dec ‘18, I defended my PhD thesis titled “Realistic Evolutionary Models for Phylogenetic-Guided Analyses” and I successfully passed the doctoral exam at University of Zurich.</p>
+
+<p>Since Aug, ‘19, I am a non-executive board member of <a href="https://navacamicie.com">Country Rose SRL</a>, a shirt company founded by my parents. In this role, I am responsible for:</p>
+<ul>
+  <li>Strategic consulting and development lead for logistic and manufacturing processes</li>
+  <li>Development of web-application for data aggregation and financial transaction processing</li>
+  <li>Design, deployment and maintenance of network and unified communication infrastructure</li>
+  <li>Maintenance of heterogeneous and legacy IT environments</li>
+</ul>
+
+<p>Until Apr ‘20, I worked as <strong>Cloud Engineer/Architect</strong> at <a href="http://www.amanox.ch">Amanox Solutions AG</a>, in Bern (CH), and in this role:</p>
+<ul>
+  <li>I was involved in the definition, the implementation, and the support of cutting-edge data analytics and machine learning projects.</li>
+  <li>I promoted the introduction of DevSecOps strategies for the development and deployment of applications and services on the cloud</li>
+  <li>I advised on how to develop elastic solutions using stateless deployments and serverless infrastructure.</li>
+  <li>I devised solutions which leveraged cloud architecture best practices, and the implementation of cloud adoption frameworks to ensure data integrity and the minimisation of possible failure scenarios.</li>
+</ul>
+
+<p>I assisted many customers during their journey to the cloud. Among my clients, I worked with:</p>
+<ul>
+  <li><a href="https://www.fam.ch/">Fisch Asset Management, Zürich</a></li>
+  <li><a href="https://www.straumann.com/">Institut Straumann AG, Basel</a></li>
+  <li><a href="https://www.clariant.com/">Clariant, Basel</a></li>
+  <li><a href="https://www.alpiq.com/">Alpiq AG, Olten</a></li>
+</ul>
+
+<p>In June ‘20, I started working in the Digital &amp; Commerce Tecnology department at <a href="https://www.alpiq.com/">Alpiq, AG</a>. At first I covered the role of <strong>Cloud Engineer</strong> in the Application Operation Support team, and lately I took on the responsibility as <strong>Technical Lead</strong>. In this role, I coordinate the implementation and execution of business-driven cloud projects, and I support the introduction of DevSecOps strategies and cloud-inspired engineering best practices.</p>
+
+<h2 id="research">Research</h2>
+
+<p>I studied the evolutionary molecular and epidemiological dynamics of viral diseases affecting the human population on a global scale, and how to implement a new class of evolutionary models which account for incorporing insertion and deletions events into phylogenetic reconstruction.</p>
+
+<h2 id="grants">Grants</h2>
+
+<ul>
+  <li>1 Feb 2018 - 31 Jan 2019: University of Zürich - Forschungskredit Candoc grant no. K-74409-01-01</li>
+  <li>1 July 2015: UZH-ETH MLS Travel grant</li>
+</ul>
+
+<h2 id="teaching">Teaching</h2>
+<ul>
+  <li><a href="http://lorenzogatti.me/2017-ACGT-Tutorials/">GENECO course - Computational Molecular Evolution: Detecting Positive Selection -  at University of Lund</a></li>
+  <li><a href="http://gattil.github.io/2016_FiPS_Tutorials">Frontiers in Plant Sciences 2016: Phd course in protein-coding evolution and detecting natural selection</a></li>
+  <li><a href="http://gemp2015.lifeinnumbers.ch/program/">ZHAW-SIB Summer School GEMP 2015: Genomics and Evolution of Microbial Pathogens</a></li>
+</ul>
+
+<h2 id="publications">Publications</h2>
+<ol>
+  <li>
+    <p><strong>Lorenzo Gatti</strong>, Jitao David Zhang, Maria Anisimova, Martin Schutten, Albert Osterhaus, Erhard van der Vries,  Cross-reactive immunity drives global oscillation and opposed alternation patterns of seasonal influenza A viruses, BioRxiv (2017) <a href="https://doi.org/10.1101/226613">doi:10.1101/bioRxiv/226613</a></p>
+  </li>
+  <li>
+    <p>Davide Heller, Andreas Hoppe, Simon Restrepo, <strong>Lorenzo Gatti</strong>, Alexander L. Tournier, Nicolas Tapon, Konrad Basler, and Yanlan Mao (2016). EpiTools: An Open-Source Image Analysis Toolkit for Quantifying Epithelial Growth Dynamics. Developmental Cell 36 (1) (January): 103–116. <a href="http://dx.doi.org/10.1016/j.devcel.2015.12.012">doi:10.1016/j.devcel.2015.12.012</a></p>
+  </li>
+  <li>
+    <p>SIB members, including: Anisimova, Maria; <strong>Gatti, Lorenzo</strong>; Gil, Manuel (2015). The SIB Swiss Institute of Bioinformatics’ resources: focus on curated databases. In: Nucleic Acids Research. Oxford: Oxford University Press.
+<a href="http://nar.oxfordjournals.org/content/early/2015/11/27/nar.gkv1310.abstract">doi: 10.1093/nar/gkv1310</a>.</p>
+  </li>
+</ol>
+
+<h2 id="software">Software</h2>
+
+<ul>
+  <li><a href="https://bitbucket.org/lorenzogatti89/castor">Castor</a>. Indel-Aware Phylogenetic Tree Inference Software</li>
+  <li><a href="https://bitbucket.org/lorenzogatti89/castor-aws">Castor AWS</a>. Auto-scaling On-Demand Indel-Aware Phylogenetic Tree Inference on the public cloud</li>
+  <li><a href="https://bitbucket.org/lorenzogatti89/tshlib">Tree Search Heuristic Library</a>. The Unified Tree-Search Heuristic C++ Library (TSH-LIB) is a new unified implementation of binary tree topological searching engines for phylogenetic analyses.</li>
+  <li><a href="https://bitbucket.org/lorenzogatti89/alist/src/master/">AliSt</a>. ALIgnment STatistic, a program to compute indel presence statistics on Multi-Sequence Alignments.</li>
+  <li><a href="https://github.com/gattil/netxDiscreteDynamics">NetXDiscreteDynamics</a>. Probabilistic framework for discrete evolutionary dynamic</li>
+  <li><a href="https://github.com/gattil/phylo-tools">Phylo-Tools</a>. Phylogenetic tree manipulation toolbox</li>
+  <li><a href="http://imls-bg-arthemis.uzh.ch/epitools-wiki/site/home/">Epitools</a>. Image processing software for Epithelial Tissues</li>
+</ul>
+
+<h2 id="memberships">Memberships</h2>
+<ul>
+  <li>[2017-2019] SIB PhD Training Network representative <a href="http://sib.swiss">Swiss Institute of Bioinformatics</a></li>
+  <li>[2016-current] Member of the scientific Board at <a href="http://queerstudies.ch">Swiss Institute of Queer Studies</a></li>
+  <li>[2015-2018] Member of <a href="http://sib.swiss">Swiss Institute of Bioinformatics</a></li>
+  <li>[2015-2016] Member of MLS PhD Retreat Organising Committee 2016</li>
+  <li>[2015-2016] Member of the UZH - ETHZ MLS PhD program steering committee</li>
+  <li>[2014-current] Member of <a href="https://www.iaeth.ch/">Verein Informatik-Alumni ETH Zürich (IAETH)</a></li>
+  <li>[2013-2014] Board member of <a href="https://www.vseth.ethz.ch/">Verband der Studierenden an der ETHZ (VSETH)</a></li>
+  <li>[2012-2014] Board member of Kommission für Masterstudenten ohne ETH-Bachelor (MoEB)</li>
+  <li>[2011] Founder of CUSMIBIO Alumni association at University of Milan</li>
+  <li>[2008-current] Member of <a href="http://www.xlab-goettingen.de/">XLab Göttingen Alumni</a></li>
+  <li>[2008] Member of NYEX (Network for Youth Excellence)</li>
+</ul>
+:ET
