@@ -66,6 +66,8 @@ From Jan '22, I am joining forces with [Dr. med. Matthias Reinacher](https://www
 <div style="background:hsl(204, 59%, 41%);">
 <img src="/assets/about/5milesout.jpg" style="object-fit: cover;opacity: 0.6;">
 </div>
+  >  G-MOVJ, Lockheed Model 10 Electra featured on the cover of Mike Oldfield, 5 Miles Out, 1982
+
 
 ---
 

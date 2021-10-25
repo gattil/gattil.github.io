@@ -15,6 +15,8 @@ In Oct, '21 I started my journey to become a private pilot.
 
 ![aviation-1](/assets/flying/IMG_1909.jpeg){: style="width:800px; height: 337px;object-fit: cover;" }
 
+  > Sunset on the D-IIKM Beechcraft King Air C90A over Alsace, France
+
 ---
 
 ### Medical certification

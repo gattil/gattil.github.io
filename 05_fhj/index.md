@@ -31,8 +31,6 @@ order: 5
 
 ###### Aula der Universität Zürich - 29. Okt 2016
 
-<!--![Fabian Heinz Jenny](/assets/FabianHeinzJenny.jpg =300x)-->
-
 <img src="/assets/fhj/FHJ_AleschWenger.jpg" alt="Fabian Heinz Jenny" height="600">
 
 > Fabian Heinz Jenny<br>27. März 1985 - 20. Oktober 2016

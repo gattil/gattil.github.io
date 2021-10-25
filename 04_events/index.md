@@ -6,67 +6,45 @@ order: 4
 
 I often travel around Europe to attend courses, conferences and workshops. Here are the events I have attended, and may attend in the future.
 
-<hr class="lighter"/>
+<style>
+table, td, th, tr {
+   border: none!important;
+   font-size: small;
+   vertical-align: top!important;
+   background-color: white!important;
+}
+table tr:nth-child(even) {
+    background-color: white!important;
+}
+</style>
+
+
+
+---
+
 <div class="recent-posts">Upcoming events <div class="spanlighter"> by most recent</div></div>
 
 
+---
 
-<div class="row">
-<hr class="lighter"/>
-<div class="recent-posts">Past events <div class="spanlighter"> by most recent</div>
-</div>
+<div class="recent-posts">Past events <div class="spanlighter"> by most recent</div></div>
 
 
-<div class="row">
-<div class="two columns"><img src="/assets/events/2000px-Amazon_Web_Services_Logo.png"></div>
-<div class="six columns event-title"><a href="https://aws.amazon.com/de/events/aws-cloud-summer-school-switzerland">
-<p>Selected trainee at AWS Cloud Summer School Switzerland (ACS3) - Digicomp Academy AG </p></a>
-</div>
-<div class="three columns" style="float:right;">3-7 Sept 2018</div>
-</div>
+|  |   |   |
+|:--- | ---- | ---:|
+| ![figure-1](/assets/events/2000px-Amazon_Web_Services_Logo.png){: style="width:4.5em" } | [Selected trainee at AWS Cloud Summer School Switzerland (ACS3) - Digicomp Academy AG](https://aws.amazon.com/de/events/aws-cloud-summer-school-switzerland) | 3-7 Sept 2018 |
+| ![figure-2](/assets/events/UCL.png){: style="width:4.5em" } | [Speaker at Phylogroup XI - University College London](https://www.eventbrite.co.uk/e/phylogroup-xi-tickets-40021321851?utm_source=eb_email&utm_medium=email&utm_campaign=order_confirmation_email&utm_term=eventname&ref=eemailordconf)  | 28 Mar 2018 |
+| ![figure-3](/assets/events/University_of_Zurich_Logo.png){: style="width:4.5em" } | [Teaching assistant at Protein-coding Evolution and Detecting Natural Selection](http://lorenzogatti.me/2017-ACGT-Tutorials/)  | 18-20 Jun 2018 |
+| ![figure-3](/assets/events/University_of_Zurich_Logo.png){: style="width:4.5em" } | [Invited speaker at IMLS - UZH in Prof. Christian von Mering's group](https://www.bc2.ch/2017)  | 6 Dec 2017 |
+| ![figure-3](/assets/events/sib_logo_quadri_high_res.png){: style="width:4.5em" } | [Invited poster presentation at BioComp 2017](https://www.bc2.ch/2017)  | 4 Oct 2017 |
+| ![figure-3](/assets/events/sib_logo_quadri_high_res.png){: style="width:4.5em" } | [Participant at SIB TN PhD Retreat 2017](https://www.bc2.ch/2017)  | 25-27 Sept 2017 |
+| ![figure-3](/assets/events/mls.png){: style="width:4.5em" } | [Participant at MLS PhD Retreat 2017](https://www.bc2.ch/2017/)  | 30 Aug - 1 Sept 2017 |
+| ![figure-3](/assets/events/Lund_University_logotype.png){: style="width:4.5em" } | [Teaching assistant in the course 'Computational Molecular Evolution: Detecting Positive Selection' with Maria Anisimova](http://www.lunduniversity.lu.se/)  | 12-18 June 2017 |
+| ![figure-3](/assets/events/AWS_Summit2017.png){: style="width:4.5em" } | [Participant at AWS Summit Berlin 2017](https://aws.amazon.com/de/summits/berlin/)  | 12-18 June 2017 |
 
 
 
-<div class="row">
-<div class="two columns"><img src="/assets/events/UCL.png"></div>
-<div class="six columns event-title"><a href="https://www.eventbrite.co.uk/e/phylogroup-xi-tickets-40021321851?utm_source=eb_email&utm_medium=email&utm_campaign=order_confirmation_email&utm_term=eventname&ref=eemailordconf"><p>Speaker at Phylogroup XI - University College London </p></a></div>
-<div class="three columns" style="float:right;">28 Mar 2018</div>
-</div>
 
-<div class="row">
-<div class="two columns"><img src="/assets/events/University_of_Zurich_Logo.png"></div>
-<div class="six columns event-title"><a href="http://lorenzogatti.me/2017-ACGT-Tutorials/"><p>Teaching assistant at Protein-coding Evolution and Detecting Natural Selection</p></a></div>
-<div class="three columns" style="float:right;"><p>18-20 Jun 2018</p></div>
-</div>
-
-<div class="row">
-<div class="two columns"><img src="/assets/events/University_of_Zurich_Logo.png"></div>
-<div class="six columns event-title"><a href="https://www.bc2.ch/2017/"><p>Invited speaker at IMLS - UZH in Prof. Christian von Mering's group </p></a></div>
-<div class="three columns" style="float:right;">6 Dec 2017</div></div>
-
-<div class="row">
-<div class="two columns"><img src="/assets/events/sib_logo_quadri_high_res.png"></div>
-<div class="six columns event-title"><a href="https://www.bc2.ch/2017/"><p>Invited poster presentation at BioComp 2017 </p></a></div>
-<div class="three columns" style="float:right;">4 Oct 2017</div></div>
-
-<div class="row">
-<div class="two columns"><img src="/assets/events/sib_logo_quadri_high_res.png"></div>
-<div class="six columns event-title"><a href="https://www.bc2.ch/2017/"><p>Participant at SIB TN PhD Retreat 2017 </p></a></div>
-<div class="three columns" style="float:right;">25-27 Sept 2017</div></div>
-
-<div class="row">
-<div class="two columns"><img src="/assets/events/mls.png"></div>
-<div class="six columns event-title"><a href="https://www.bc2.ch/2017/"><p>Participant at MLS PhD Retreat 2017 </p></a></div>
-<div class="three columns" style="float:right;">30 Aug - 1 Sept 2017</div></div>
-
-<div class="two columns"><img src="/assets/events/Lund_University_logotype.png"></div>
-<div class="six columns event-title"><a href="http://www.lunduniversity.lu.se/"><p>Teaching assistant in the course 'Computational Molecular Evolution: Detecting Positive Selection' with Maria Anisimova</p></a></div>
-<div class="three columns" style="float:right;"><p>12-18 June 2017</p></div></div>
-
-<div class="row">
-<div class="two columns"><img src="/assets/events/AWS_Summit2017.png"></div>
-<div class="six columns event-title"><a href="https://aws.amazon.com/de/summits/berlin/"><p>Participant at AWS Summit Berlin 2017</p></a></div>
-<div class="three columns" style="float:right;"><p>12-18 June 2017</p></div></div>
 
 <div class="row">
 <div class="two columns"><img src="/assets/events/Uni_innsbruck.png"></div>
