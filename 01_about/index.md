@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 author: Lorenzo
 order: 1
 ---
@@ -49,9 +49,8 @@ I assisted many customers during their journey to the cloud. Among my clients, I
 - [Alpiq AG, Olten](https://www.alpiq.com/)
 
 
-In June '20, I started working in the Digital & Commerce Tecnology department at [Alpiq, AG](https://www.alpiq.com/). At first I covered the role of <strong>Cloud Engineer</strong> in the Application Operation Support team, and lately I took on the responsibility as <strong>Technical Lead</strong>. In this role, I coordinate the implementation and execution of business-driven cloud projects, and I support the introduction of DevSecOps strategies and cloud-inspired engineering best practices.
+In June '20, I started working in the Digital & Commerce Tecnology department at [Alpiq, AG](https://www.alpiq.com/). At first I covered the role of <strong>Cloud Engineer</strong> in the Application Operation Support team, and lately I took on the responsibility as <strong>Technical Lead</strong>. In this position, I am responsible for:
 
-In this position, I am responsible for:
 - Coordinating the implementation and execution of business-driven cloud projects
 - Translating architecture diagrams into practical and reproducible cloud solutions
 - Ensuring code quality and delivery standards
