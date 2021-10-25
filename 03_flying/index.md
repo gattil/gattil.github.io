@@ -8,7 +8,7 @@ comments: false
 order: 3
 ---
 <br>
-Flying has always fashinated me, but I always looked at it as something unreacheable. Recently, my life path has taken a new direction, and I met Matthias, who showed me instead that with dedication and passion one can litterally touch the sky.
+Flying has always fashinated me, but I kept on looking at it as something unreacheable. Recently, my life path has taken a new direction, and I met Matthias, who showed me instead that with dedication and passion one can litterally touch the sky.
 
 In Oct, '21 I started my journey to become a private pilot.
 
