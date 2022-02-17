@@ -6,6 +6,7 @@ author: Lorenzo
 tags: ["binary trees", "algorithms", "high-performance", "code"]
 comments: false
 order: 2
+permalink: /research/
 ---
 <br>
 I studied the evolutionary molecular and epidemiological dynamics of viral diseases affecting the human population on a global scale, and how to implement a new class of evolutionary models which account for incorporing insertion and deletions events into phylogenetic reconstruction.

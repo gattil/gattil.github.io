@@ -3,6 +3,7 @@ layout: page
 title: About me
 author: Lorenzo
 order: 1
+permalink: /about/
 ---
 
 I was born in Brescia in 1989. I grew up in Franciacorta's country side, a beautiful place where you can appreciate the incredible landscapes drinking superb wines.
@@ -36,6 +37,8 @@ Since Aug, '19, I am a non-executive board member of [Country Rose SRL](https://
 - Maintenance of heterogeneous and legacy IT environments
 
 
+<br>
+
 Until Apr '20, I worked as <strong>Cloud Engineer/Architect</strong> at [Amanox Solutions AG](http://www.amanox.ch), in Bern (CH), and in this role:
 - I was involved in the definition, the implementation, and the support of cutting-edge data analytics and machine learning projects.
 - I promoted the introduction of DevSecOps strategies for the development and deployment of applications and services on the cloud
@@ -49,6 +52,8 @@ I assisted many customers during their journey to the cloud. Among my clients, I
 - [Alpiq AG, Olten](https://www.alpiq.com/)
 
 
+<br>
+
 In June '20, I started working in the Digital & Commerce Tecnology department at [Alpiq, AG](https://www.alpiq.com/). At first I covered the role of <strong>Cloud Engineer</strong> in the Application Operation Support team, and lately I took on the responsibility as <strong>Technical Lead</strong>. In this position, I am responsible for:
 
 - Coordinating the implementation and execution of business-driven cloud projects
@@ -60,13 +65,21 @@ In June '20, I started working in the Digital & Commerce Tecnology department at
 - Defining DevOps standards and guidelines for hybrid teams
 - Devising, implementing, and supporting the introduction of a unified CI/CD framework based on industry recognised standards
 
-
+<!--
 From Jan '22, I am joining forces with [Dr. med. Matthias Reinacher](https://www.linkedin.com/in/matthias-reinacher-aa3a1b/) at [OwnShip Technology](https://www.ownship.ch). In this new adventure, my focus will shift back to my origins, and the skillset that I acquired and consolidated in the last few years will be dedicated to design, implement, and support solutions for medicine, pharma, science, and the aviation sectors.
+-->
+
+
+<br>
+
+From Jan'22, I will hold my heading true and fly to open horizons - above the clouds, to a new journey.
 
 <div style="background:hsl(204, 59%, 41%);">
 <img src="/assets/about/5milesout.jpg" style="object-fit: cover;opacity: 0.6;">
 </div>
   >  G-MOVJ, Lockheed Model 10 Electra featured on the cover of Mike Oldfield, 5 Miles Out, 1982
+
+
 
 
 ---

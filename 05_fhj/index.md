@@ -6,6 +6,7 @@ author: Lorenzo
 tags: ["Fabian Jenny", "Fabian Heinz Jenny", "nachruf", "gedenkanlass", "Universität Zürich", "UZH", "University of Zurich"]
 comments: false
 order: 5
+permalink: /fhj/
 ---
 <br>
 

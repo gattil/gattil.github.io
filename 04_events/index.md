@@ -2,6 +2,7 @@
 layout: page
 title: Events
 order: 4
+permalink: /events/
 ---
 
 I often travel around Europe to attend courses, conferences and workshops. Here are the events I have attended, and may attend in the future.

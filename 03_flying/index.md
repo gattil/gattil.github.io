@@ -6,9 +6,10 @@ author: Lorenzo
 tags: ["aviation", "flying", "journey", "Ground School"]
 comments: false
 order: 3
+permalink: /flying/
 ---
 <br>
-Flying has always fashinated me, but I kept on looking at it as something unreacheable. Recently, my life path has taken a new direction, and I met Matthias, who showed me instead that with dedication and passion one can litterally touch the sky.
+Flying has always fascinated me, but I kept on looking at it as something unreachable. Recently, my life path has taken a new direction, and I discovered that with dedication and passion one can literally touch the sky.
 
 In Oct, '21 I started my journey to become a private pilot.
 
@@ -21,7 +22,7 @@ In Oct, '21 I started my journey to become a private pilot.
 
 ### Medical certification
 
-Before enrolling in a flight school, one needs to take a Medical Class 2 examination. There are only a handful of possibilities in canton Zurich, and I ended up choosing the [Airport Medical Center](https://www.airportmedicalcenter.ch/). They offer the service for a reasonable price (around 350 CHF). The examination covers the eye- and ear- tests (necessary for IFR ratings), urine test, ECG, blood pressure, and a blood sample. At the end of the tests, a balance and coordination examination, and a psycological test are carried out by a certified physician.
+Before enrolling in a flight school, one needs to take a Medical Class 2 examination. There are only a handful of possibilities in canton Zurich, and I ended up choosing the [Airport Medical Center](https://www.airportmedicalcenter.ch/). They offer the service for a reasonable price (around 350 CHF). The examination covers the eye- and ear- tests (necessary for IFR ratings), urine test, ECG, blood pressure, and a blood sample. At the end of the tests, a balance and coordination examination, and a psychological test are carried out by a certified physician.
 
 ---
 
@@ -78,7 +79,7 @@ I did my first test flights here:
 
 ### Simulators
 
-| [X-Plane 11](https://www.x-plane.com) | This simulator goes beyond being a videogame for enthusiastics. It can easily be used to train in a realistic environment various flight conditions. The best experience is on Microsoft Windows. |
+| [X-Plane 11](https://www.x-plane.com) | This simulator goes beyond being a videogame for enthusiastic. It can easily be used to train in a realistic environment various flight conditions. The best experience is on Microsoft Windows. |
 | [IVAO](https://ivao.aero) | IVAO is an online platform for flight simulation enthusiasts to enjoy their hobby in a simulated real-world environment, in company of other people, flying or providing Air Traffic Control services. |
 | [VatSim](https://www.vatsim.net) | ATSIM is the Virtual Air Traffic Simulation network, connecting people from around the world flying online or acting as virtual Air Traffic Controllers|
 

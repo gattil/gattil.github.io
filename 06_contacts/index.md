@@ -3,6 +3,7 @@ layout: page
 title: Contact me
 author: Lorenzo
 order: 6
+permalink: /contacts/
 ---
 
 ### Lorenzo Gatti
@@ -14,7 +15,7 @@ Mobile: +41 (0) 78 829 23 55<br />
 
 ### Public SSH-key
 
-Here is my PBKDF secure [SSH public 4096-bit key](./id_rsa4096.work.pub)
+Here is my PBKDF secure [SSH public 4096-bit key](../assets/id_rsa4096.work.pub)
 
 
 ### Public PGP-Key
