@@ -11,7 +11,7 @@ permalink: /flying/
 <br>
 Flying has always fascinated me, but I kept on looking at it as something unreachable. Recently, my life path has taken a new direction, and I discovered that with dedication and passion one can literally touch the sky.
 
-In Oct, '21 I started my journey to become a private pilot.
+In Oct, '21 I started my journey to become a private pilot, and in June '23 I passed the checkride for the PPL(A) SEP Land license. I am currently enrolled in a course to obtain the Basic Instrument Ratings (BIR).  
 
 
 ![aviation-1](/assets/flying/IMG_1909.jpeg){: style="width:800px; height: 337px;object-fit: cover;" }

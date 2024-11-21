@@ -8,6 +8,11 @@ permalink: /about/
 
 I was born in Brescia in 1989. I grew up in Franciacorta's country side, a beautiful place where you can appreciate the incredible landscapes drinking superb wines.
 
+As a passionate technologist with a background in **high-performance computing and data science**, I've developed expertise in [optimising complex algorithms](/research) for global pathogen evolution and distribution models. This experience has fuelled my drive to design and build scalable, resilient, **cloud-native solutions** that tackle complex challenges head-on. My approach centers on creating future-ready systems that ensure data integrity, minimise failure scenarios, and automatically scale with problem complexity.
+
+I excel at leading **multi-disciplinary teams** from concept to delivery, driving business-driven projects with a keen eye for innovation and efficiency. My expertise extends to application integration design and **sustainable architecture development**, particularly in highly regulated sectors such as **healthcare, life sciences, energy, and finance**.
+
+Outside of work, I'm a [private pilot](/flying), an avid cyclist and a passionate mountain hiker. These diverse interests enhance my ability to approach projects from multiple angles and work effectively with diverse teams. I'm eager to leverage my technical skills, leadership experience, and domain knowledge to drive innovation, **mentor emerging talent**, and craft **impactful solutions** that address the unique challenges in today's **rapidly evolving technological landscape**.
 
 
 <!-- From Sept '03 until June'08 I attended the high school @ Istituto Madonna della Neve in Adro (BS) - IT where I focused my attention on classical studies and in June '08 I obtained the "Maturità Classica" (humanistic studies) high school degree. -->
