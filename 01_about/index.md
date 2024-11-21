@@ -54,7 +54,7 @@ I assisted many customers during their journey to the cloud. Among my clients, I
 
 <br>
 
-In June '20, I started working in the Digital & Commerce Tecnology department at [Alpiq, AG](https://www.alpiq.com/). At first I covered the role of <strong>Cloud Engineer</strong> in the Application Operation Support team, and lately I took on the responsibility as <strong>Technical Lead</strong>. In this position, I am responsible for:
+In June '20, I started working in the Digital & Commerce Tecnology department at [Alpiq, AG](https://www.alpiq.com/). At first, I covered the role of <strong>Cloud Engineer</strong> in the Application Operation Support team, and lately I took on the responsibility as <strong>Technical Lead</strong>. In this position, I was responsible for:
 
 - Coordinating the implementation and execution of business-driven cloud projects
 - Translating architecture diagrams into practical and reproducible cloud solutions
@@ -69,10 +69,19 @@ In June '20, I started working in the Digital & Commerce Tecnology department at
 From Jan '22, I am joining forces with [Dr. med. Matthias Reinacher](https://www.linkedin.com/in/matthias-reinacher-aa3a1b/) at [OwnShip Technology](https://www.ownship.ch). In this new adventure, my focus will shift back to my origins, and the skillset that I acquired and consolidated in the last few years will be dedicated to design, implement, and support solutions for medicine, pharma, science, and the aviation sectors.
 -->
 
+<br>
+
+In July '22, I embarked as Senior Solutions Architect for Healthcare and Life Sciences in the Startup team at [AWS](https://www.aws.com). 
+I work closely with healthcare and life sciences (HCLS) startups in EMEA's regulated markets. I provide strategic guidance on leveraging AWS cloud capabilities, fostering success through best practices and structural growth. I help startups navigate regulatory compliance and emerging technologies. I excel at community building and I facilitate collaboration among stakeholders. Across EMEA, I am driving these initiatives:
+
+- **Compliance and customer engagement**. I led programs to facilitate customer interaction with industry experts to address data compliance challenges. I delivered the first [DiGAV-compliant solution on AWS](https://aws.amazon.com/solutions/case-studies/kaia-health/), demonstrating my ability to navigate complex regulatory landscapes.
+- **Industry thought leadership**. I actively participated in international and local industry conferences, deepening my understanding of customer challenges and identifying new opportunities. As co-founder of the [AWS HCLS Byte Nights event series](https://aws-startup-lofts.com/emea/e/ed736/healthcare--life-sciences-byte-night), I fostered knowledge sharing among professionals in Berlin, Zurich, and Amsterdam, exploring innovative solutions to pressing industry challenges.
+- **Mentorship and talent development**. Leveraging my academic background in bioinformatics and computational sciences, I guided the scientific and business development of startups through [AION Lab](https://aionlabs.com/) and [BioMedX](https://bio.mx/) organizations. I also nurtured future talent through the AWS Students Mentoring Program in Zurich, showcasing my commitment to developing the next generation of innovators.
+- **Content creation and global impact**. I translated direct customer interactions into valuable resources for the builder community. I co-authored a [prescriptive guide for deploying Galaxy](https://aws.amazon.com/solutions/guidance/galaxy-deployment-on-aws/) a widely adopted bioinformatics solution, which is now available in the AWS Solutions Library. I supported the global sales team with launching an [AWS workshop on generating clinical notes from patient-physician audio interviews](https://catalog.us-east-1.prod.workshops.aws/workshops/989c3aad-3f3e-405f-8519-13552cdd98eb/en-US) using large language models, demonstrating my ability to bridge cutting-edge technology with practical applications.
 
 <br>
 
-From Jan'22, I will hold my heading true and fly to open horizons - above the clouds, to a new journey.
+From Feb '25, I will hold my heading true and fly to open horizons - above the clouds, to a new journey.
 
 <div style="background:hsl(204, 59%, 41%);">
 <img src="/assets/about/5milesout.jpg" style="object-fit: cover;opacity: 0.6;">
