@@ -9,6 +9,8 @@ order: 2
 permalink: /research/
 ---
 <br>
+This page is from my former life in science — my PhD in computational biology and phylogenetics (2015–2018). It gets technical fast; here's the gist of what I worked on.
+
 I studied the evolutionary molecular and epidemiological dynamics of viral diseases affecting the human population on a global scale, and how to implement a new class of evolutionary models which account for incorporating insertion and deletions events into phylogenetic reconstruction.
 
 ### Algorithms for optimising binary tree topologies

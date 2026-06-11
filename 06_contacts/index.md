@@ -8,16 +8,16 @@ permalink: /contacts/
 
 ### Lorenzo Gatti
 
-Stampfenbrunnenstrasse 29<br />
-CH-8048 Zürich<br />
-Switzerland<br />
-Mobile: +41 (0) 78 829 23 55<br />
+Zürich, Switzerland<br />
 Email: <a href="mailto:{{ site.author.email | encode_email }}" title="Contact me">Contact me</a>
 
 
 ### Public PGP-Key
 
-If you feel the need to encrypt your communications with me, here is my public PGP key:
+If you feel the need to encrypt your communications with me, here is my public PGP key.
+
+<details markdown="1">
+<summary>Show / hide public PGP key</summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -73,3 +73,5 @@ qDaZlrVTDf0cig==
 =2H2X
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+</details>

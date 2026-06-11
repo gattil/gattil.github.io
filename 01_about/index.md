@@ -23,7 +23,7 @@ Away from the keyboard, I'm a [private pilot](/flying), an avid cyclist, and a p
 
 ### My academic life
 
-I started my academic life in 2008, year during which I started by Bachelor studies in Milan, IT. There I studied and I obtained the Industrial and Environmental Biotechnology bachelor degree @ University of Milan - IT in Oct '11.
+I started my academic life in 2008, the year I began my Bachelor studies in Milan, IT. There I studied and I obtained the Industrial and Environmental Biotechnology bachelor degree @ University of Milan - IT in Oct '11.
 
 I moved to Zürich (Switzerland) on Feb '12 where I attended a two-years Master Course in Computational Biology and Bioinformatic @ Eidgenössische Technische Hochschule Zürich (ETHZ).
 
@@ -52,7 +52,7 @@ I assisted many customers during their journey to the cloud. Among my clients, I
 
 <br>
 
-In June '20, I started working in the Digital & Commerce Tecnology department at [Alpiq, AG](https://www.alpiq.com/). At first, I covered the role of <strong>Cloud Engineer</strong> in the Application Operation Support team, and lately I took on the responsibility as <strong>Technical Lead</strong>. In this position, I was responsible for:
+In June '20, I started working in the Digital & Commerce Technology department at [Alpiq, AG](https://www.alpiq.com/). At first, I covered the role of <strong>Cloud Engineer</strong> in the Application Operation Support team, and lately I took on the responsibility as <strong>Technical Lead</strong>. In this position, I was responsible for:
 
 - Coordinating the implementation and execution of business-driven cloud projects
 - Translating architecture diagrams into practical and reproducible cloud solutions
@@ -69,7 +69,7 @@ From Jan '22, I am joining forces with [Dr. med. Matthias Reinacher](https://www
 
 <br>
 
-In July '22, I embarked as Senior Solutions Architect for Healthcare and Life Sciences in the Startup team at [AWS](https://www.aws.com). 
+In July '22, I embarked as Senior Solutions Architect for Healthcare and Life Sciences in the Startup team at [AWS](https://aws.amazon.com). 
 I work closely with healthcare and life sciences (HCLS) startups in EMEA's regulated markets. I provide strategic guidance on leveraging AWS cloud capabilities, fostering success through best practices and structural growth. I help startups navigate regulatory compliance and emerging technologies. I excel at community building and I facilitate collaboration among stakeholders. Across EMEA, I am driving these initiatives:
 
 - **Compliance and customer engagement**. I led programs to facilitate customer interaction with industry experts to address data compliance challenges. I delivered the first [DiGAV-compliant solution on AWS](https://aws.amazon.com/solutions/case-studies/kaia-health/), demonstrating my ability to navigate complex regulatory landscapes.

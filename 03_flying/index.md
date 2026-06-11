@@ -9,7 +9,7 @@ order: 3
 permalink: /flying/
 ---
 <br>
-Flying has always fascinated me, but I kept on looking at it as something unreachable. Recently, my life path has taken a new direction, and I discovered that with dedication and passion one can literally touch the sky.
+Flying has always fascinated me, but I kept on looking at it as something unreachable. Recently, my life path has taken a new direction, and I discovered that with dedication and patience one can touch the sky.
 
 In Oct, '21 I started my journey to become a private pilot, and in June '23 I passed the checkride for the PPL(A) SEP Land license. I am currently enrolled in a course to obtain the Basic Instrument Ratings (BIR).
 
@@ -22,11 +22,24 @@ Since 2024 I've also served on the board of the [European Pride in Aviation Netw
 
 ---
 
+### First flights
+
+I did my first test flights here:
+
+1. DE: [Ardex Flight Training Center](https://www.flugschule-ardex.de/)
+2. IT: [Aeroclub Brescia](https://aecbrescia.com/) at the International Airport of Montichiari (BS)
+
+---
+
 ### Medical certification
 
 Before enrolling in a flight school, one needs to take a Medical Class 2 examination. There are only a handful of possibilities in canton Zurich, and I ended up choosing the [Airport Medical Center](https://www.airportmedicalcenter.ch/). They offer the service for a reasonable price (around 350 CHF). The examination covers the eye- and ear- tests (necessary for IFR ratings), urine test, ECG, blood pressure, and a blood sample. At the end of the tests, a balance and coordination examination, and a psychological test are carried out by a certified physician.
 
 ---
+
+## Resources
+
+If you're learning to fly yourself, here's what helped me along the way.
 
 ### Training material
 
@@ -61,15 +74,6 @@ Another interesting course that instead mixes theory with simulated practice is 
 For a more comprehensive course, the following iOS application should suffice. Jason is a great certified flight instructor who will not get bored to remind you about standards and best practices: [The finer points](https://www.learnthefinerpoints.com/)
 
 
-
----
-
-### First flights
-
-I did my first test flights here:
-
-1. DE: [Ardex Flight Training Center](https://www.flugschule-ardex.de/)
-2. IT: [Aeroclub Brescia](https://aecbrescia.com/) at the International Airport of Montichiari (BS)
 
 ---
 
