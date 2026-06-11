@@ -19,9 +19,9 @@ Outside of work, I'm a [private pilot](/flying), an avid cyclist and a passionat
 
 ---
 
-### My accademic life
+### My academic life
 
-I started my accademic life in 2008, year during which I started by Bachelor studies in Milan, IT. There I studied and I obtained the Industrial and Environmental Biotechnology bachelor degree @ University of Milan - IT in Oct '11.
+I started my academic life in 2008, year during which I started by Bachelor studies in Milan, IT. There I studied and I obtained the Industrial and Environmental Biotechnology bachelor degree @ University of Milan - IT in Oct '11.
 
 I moved to Zürich (Switzerland) on Feb '12 where I attended a two-years Master Course in Computational Biology and Bioinformatic @ Eidgenössische Technische Hochschule Zürich (ETHZ).
 

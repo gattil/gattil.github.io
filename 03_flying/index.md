@@ -43,7 +43,7 @@ I ended up downloading all of them and ordering paperback copies, as well. The o
 
 ### Online trainings
 
-The Udemy course below covers the content of the “Pilot’s Handbook of Aeronautical Knowledge” (Ground school) in a serie of online lectures.
+The Udemy course below covers the content of the “Pilot’s Handbook of Aeronautical Knowledge” (Ground school) in a series of online lectures.
 
 1. [Part 1 - Introduction to flight training, Aircraft Structure, Systems and Flight Instruments  ](https://www.udemy.com/course/part-1-faa-private-pilot-ground-school-part-61/)
 2. [Part 2 - Basic Aerodynamics, Aerodynamic Forces, Weight & Balance, and Performance & Limitations. ](https://www.udemy.com/course/part-2-faa-private-pilot-ground-school-part-61/)
