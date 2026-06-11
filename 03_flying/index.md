@@ -11,7 +11,9 @@ permalink: /flying/
 <br>
 Flying has always fascinated me, but I kept on looking at it as something unreachable. Recently, my life path has taken a new direction, and I discovered that with dedication and passion one can literally touch the sky.
 
-In Oct, '21 I started my journey to become a private pilot, and in June '23 I passed the checkride for the PPL(A) SEP Land license. I am currently enrolled in a course to obtain the Basic Instrument Ratings (BIR).  
+In Oct, '21 I started my journey to become a private pilot, and in June '23 I passed the checkride for the PPL(A) SEP Land license. I am currently enrolled in a course to obtain the Basic Instrument Ratings (BIR).
+
+Since 2024 I've also served on the board of the [European Pride in Aviation Network](https://www.prideinaviation.org/) — a community for LGBTQIA+ people who love aviation, from pilots and cabin crew to engineers and everyone in between.  
 
 
 ![aviation-1](/assets/flying/IMG_1909.jpeg){: style="width:800px; height: 337px;object-fit: cover;" }
@@ -62,18 +64,12 @@ For a more comprehensive course, the following iOS application should suffice. J
 
 ---
 
-### Schools
-
-I have been evaluating the possibility of applying for a flight schools in the surroundings of Zurich, and the following ones are potential candidates:
-
-1. CH: [Flugschule Basel](https://www.fsb.aero/) at the International Airport Basel-Mulhouse
-2. CH: [Flugschule Grenchen](https://fliegen.ch/)
-3. CH: [Swiss Flight Accademy](https://www.horizon-sfa.ch/de)
+### First flights
 
 I did my first test flights here:
 
-4. DE: [Ardex Flight Training Center](https://www.flugschule-ardex.de/)
-5. IT: [Aeroclub Brescia](https://aecbrescia.com/) at the International Airport of Montichiari (BS)
+1. DE: [Ardex Flight Training Center](https://www.flugschule-ardex.de/)
+2. IT: [Aeroclub Brescia](https://aecbrescia.com/) at the International Airport of Montichiari (BS)
 
 ---
 
