@@ -37,45 +37,11 @@ In Feb'15, I joined [Dr. Maria Anisimova](https://www.zhaw.ch/en/about-us/person
 
 ### My professional journey
 
-Until Apr '20, I worked as <strong>Cloud Engineer/Architect</strong> at [Amanox Solutions AG](http://www.amanox.ch), in Bern (CH), and in this role:
-- I was involved in the definition, the implementation, and the support of cutting-edge data analytics and machine learning projects.
-- I promoted the introduction of DevSecOps strategies for the development and deployment of applications and services on the cloud
-- I advised on how to develop elastic solutions using stateless deployments and serverless infrastructure.
-- I devised solutions which leveraged cloud architecture best practices, and the implementation of cloud adoption frameworks to ensure data integrity and the minimisation of possible failure scenarios.
+My first cloud role was at [Amanox Solutions](http://www.amanox.ch) in Bern, where I worked on data-analytics and machine-learning projects and helped teams adopt DevSecOps and serverless ways of working. I supported clients through their move to the cloud — among them [Fisch Asset Management](https://www.fam.ch/), [Straumann](https://www.straumann.com/), [Clariant](https://www.clariant.com/), and [Alpiq](https://www.alpiq.com/).
 
-I assisted many customers during their journey to the cloud. Among my clients, I worked with:
-- [Fisch Asset Management, Zürich](https://www.fam.ch/)
-- [Institut Straumann AG, Basel](https://www.straumann.com/)
-- [Clariant, Basel](https://www.clariant.com/)
-- [Alpiq AG, Olten](https://www.alpiq.com/)
+In June '20 I joined [Alpiq](https://www.alpiq.com/)'s Digital & Commerce Technology team, first as a Cloud Engineer and then as Technical Lead. I coordinated cloud projects, set the engineering and CI/CD standards for hybrid teams, and turned architecture diagrams into things those teams could actually build and reproduce.
 
-
-<br>
-
-In June '20, I started working in the Digital & Commerce Technology department at [Alpiq, AG](https://www.alpiq.com/). At first, I covered the role of <strong>Cloud Engineer</strong> in the Application Operation Support team, and lately I took on the responsibility as <strong>Technical Lead</strong>. In this position, I was responsible for:
-
-- Coordinating the implementation and execution of business-driven cloud projects
-- Translating architecture diagrams into practical and reproducible cloud solutions
-- Ensuring code quality and delivery standards
-- Translating cloud engineering standards into development guidelines
-- Supporting the introduction of DevSecOps strategies and cloud-inspired engineering best practices
-- Engineering, developing, and implementing resilient and self-recovering cloud native solutions
-- Defining DevOps standards and guidelines for hybrid teams
-- Devising, implementing, and supporting the introduction of a unified CI/CD framework based on industry recognised standards
-
-<!--
-From Jan '22, I am joining forces with [Dr. med. Matthias Reinacher](https://www.linkedin.com/in/matthias-reinacher-aa3a1b/) at [OwnShip Technology](https://www.ownship.ch). In this new adventure, my focus will shift back to my origins, and the skillset that I acquired and consolidated in the last few years will be dedicated to design, implement, and support solutions for medicine, pharma, science, and the aviation sectors.
--->
-
-<br>
-
-In July '22, I embarked as Senior Solutions Architect for Healthcare and Life Sciences in the Startup team at [AWS](https://aws.amazon.com). 
-I work closely with healthcare and life sciences (HCLS) startups in EMEA's regulated markets. I provide strategic guidance on leveraging AWS cloud capabilities, fostering success through best practices and structural growth. I help startups navigate regulatory compliance and emerging technologies. I excel at community building and I facilitate collaboration among stakeholders. Across EMEA, I am driving these initiatives:
-
-- **Compliance and customer engagement**. I led programs to facilitate customer interaction with industry experts to address data compliance challenges. I delivered the first [DiGAV-compliant solution on AWS](https://aws.amazon.com/solutions/case-studies/kaia-health/), demonstrating my ability to navigate complex regulatory landscapes.
-- **Industry thought leadership**. I actively participated in international and local industry conferences, deepening my understanding of customer challenges and identifying new opportunities. As co-founder of the [AWS HCLS Byte Nights event series](https://aws-startup-lofts.com/emea/e/ed736/healthcare--life-sciences-byte-night), I fostered knowledge sharing among professionals in Berlin, Zurich, and Amsterdam, exploring innovative solutions to pressing industry challenges.
-- **Mentorship and talent development**. Leveraging my academic background in bioinformatics and computational sciences, I guided the scientific and business development of startups through [AION Lab](https://aionlabs.com/) and [BioMedX](https://bio.mx/) organizations. I also nurtured future talent through the AWS Students Mentoring Program in Zurich, showcasing my commitment to developing the next generation of innovators.
-- **Content creation and global impact**. I translated direct customer interactions into valuable resources for the builder community. I co-authored a [prescriptive guide for deploying Galaxy](https://aws.amazon.com/solutions/guidance/galaxy-deployment-on-aws/) a widely adopted bioinformatics solution, which is now available in the AWS Solutions Library. I supported the global sales team with launching an [AWS workshop on generating clinical notes from patient-physician audio interviews](https://catalog.us-east-1.prod.workshops.aws/workshops/989c3aad-3f3e-405f-8519-13552cdd98eb/en-US) using large language models, demonstrating my ability to bridge cutting-edge technology with practical applications.
+From July '22 to January '25 I was a Senior Solutions Architect for Healthcare and Life Sciences at [AWS](https://aws.amazon.com), working with startups across EMEA's regulated markets. The work I'm proudest of there: I delivered the first [DiGAV-compliant solution on AWS](https://aws.amazon.com/solutions/case-studies/kaia-health/); co-founded the [AWS HCLS Byte Nights](https://aws-startup-lofts.com/emea/e/ed736/healthcare--life-sciences-byte-night) meetup series in Berlin, Zurich, and Amsterdam; co-authored a [prescriptive guide for deploying Galaxy](https://aws.amazon.com/solutions/guidance/galaxy-deployment-on-aws/) for the AWS Solutions Library; and mentored founders through [AION Lab](https://aionlabs.com/), [BioMedX](https://bio.mx/), and the AWS Students Mentoring Program.
 
 <br>
 
@@ -104,11 +70,6 @@ And I teach: I'm a guest lecturer for "Cloud Computing for Life Sciences" at FHN
 - [2017-2019] SIB PhD Training Network representative [Swiss Institute of Bioinformatics](http://sib.swiss)
 - [2016-current] Member of the scientific Board at [Swiss Institute of Queer Studies](http://queerstudies.ch)
 - [2015-2018] Member of [Swiss Institute of Bioinformatics](http://sib.swiss)
-- [2015-2016] Member of MLS PhD Retreat Organising Committee 2016
-- [2015-2016] Member of the UZH - ETHZ MLS PhD program steering committee
 - [2014-current] Member of [Verein Informatik-Alumni ETH Zürich (IAETH)](https://www.iaeth.ch/)
 - [2013-2014] Board member of [Verband der Studierenden an der ETHZ (VSETH)](https://www.vseth.ethz.ch/)
-- [2012-2014] Board member of Kommission für Masterstudenten ohne ETH-Bachelor (MoEB)
-- [2011] Founder of CUSMIBIO Alumni association at University of Milan
 - [2008-current] Member of [XLab Göttingen Alumni](http://www.xlab-goettingen.de/)
-- [2008] Member of NYEX (Network for Youth Excellence)
