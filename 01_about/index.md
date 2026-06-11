@@ -6,13 +6,15 @@ order: 1
 permalink: /about/
 ---
 
-I was born in Brescia in 1989. I grew up in Franciacorta's country side, a beautiful place where you can appreciate the incredible landscapes drinking superb wines.
+I was born in Brescia in 1989. I grew up in Franciacorta's countryside, a beautiful place with incredible landscapes.
 
-As a passionate technologist with a background in **high-performance computing and data science**, I've developed expertise in [optimising complex algorithms](/research) for global pathogen evolution and distribution models. This experience has fuelled my drive to design and build scalable, resilient, **cloud-native solutions** that tackle complex challenges head-on. My approach centers on creating future-ready systems that ensure data integrity, minimise failure scenarios, and automatically scale with problem complexity.
+My background is in high-performance computing and data science. I spent years building [algorithms](/research) to model how pathogens evolve and spread across the globe, and that work still shapes how I design systems today: keep the data intact, fail small rather than large, and scale with the problem rather than against it.
 
-I excel at leading **multi-disciplinary teams** from concept to delivery, driving business-driven projects with a keen eye for innovation and efficiency. My expertise extends to application integration design and **sustainable architecture development**, particularly in highly regulated sectors such as **healthcare, life sciences, energy, and finance**.
+Most of my career has been application integration and architecture in highly regulated sectors — healthcare, life sciences, energy, and finance, where there's little room to get it wrong.
 
-Outside of work, I'm a [private pilot](/flying), an avid cyclist and a passionate mountain hiker. These diverse interests enhance my ability to approach projects from multiple angles and work effectively with diverse teams. I'm eager to leverage my technical skills, leadership experience, and domain knowledge to drive innovation, **mentor emerging talent**, and craft **impactful solutions** that address the unique challenges in today's **rapidly evolving technological landscape**.
+What I enjoy most is taking a multi-disciplinary team from a blank page to something delivered — and, along the way, mentoring the engineers and scientists who are just getting started.
+
+Away from the keyboard, I'm a [private pilot](/flying), an avid cyclist, and a passionate mountain hiker.
 
 
 <!-- From Sept '03 until June'08 I attended the high school @ Istituto Madonna della Neve in Adro (BS) - IT where I focused my attention on classical studies and in June '08 I obtained the "Maturità Classica" (humanistic studies) high school degree. -->
@@ -86,12 +88,20 @@ I work closely with healthcare and life sciences (HCLS) startups in EMEA's regul
 
 <br>
 
-From Feb '25, I will hold my heading true and fly to open horizons - above the clouds, to a new journey.
+In Feb '25, I held my heading true and flew to open horizons — above the clouds, to a new journey.
 
 <div style="background:hsl(204, 59%, 41%);">
 <img src="/assets/about/5milesout.jpg" style="object-fit: cover;opacity: 0.6;">
 </div>
   >  G-MOVJ, Lockheed Model 10 Electra featured on the cover of Mike Oldfield, 5 Miles Out, 1982
+
+<br>
+
+In January 2025 I left AWS to work on my own terms. Since February I've been an independent <strong>Senior Solutions Architect</strong> in healthcare and life sciences — the work that makes me happiest. I help an AI-driven drug-discovery company, and a platform that supports clinical studies, turn hard medtech problems into architectures their teams can actually build, working shoulder to shoulder with their engineers from the first sketch to a working proof of concept.
+
+Since July '25 I'm also <strong>Software Architect at [Dentsply Sirona](https://www.dentsplysirona.com)</strong>, shaping the cloud platform behind modern dentistry. My focus there is using AI to help engineers do better work — clearer documentation, higher standards — instead of just shipping faster.
+
+And I teach: I'm a guest lecturer for "Cloud Computing for Life Sciences" at FHNW.
 
 
 
