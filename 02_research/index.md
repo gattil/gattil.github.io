@@ -9,9 +9,25 @@ order: 2
 permalink: /research/
 ---
 <br>
+
 This page is from my former life in science — my PhD in computational biology and phylogenetics (2015–2018). It gets technical fast; here's the gist of what I worked on.
 
 I studied the evolutionary molecular and epidemiological dynamics of viral diseases affecting the human population on a global scale, and how to implement a new class of evolutionary models which account for incorporating insertion and deletions events into phylogenetic reconstruction.
+
+---
+### My academic life
+
+I started my academic life in 2008, the year I began my Bachelor studies in Milan, IT. There I studied and I obtained the Industrial and Environmental Biotechnology bachelor degree @ University of Milan - IT in Oct '11.
+
+I moved to Zürich (Switzerland) on Feb '12 where I attended a two-years Master Course in Computational Biology and Bioinformatic @ Eidgenössische Technische Hochschule Zürich (ETHZ).
+
+In Feb '13 I joined [Prof. Konrad Basler](http://www.imls.uzh.ch/en/research/basler.html) group for a small research project (lab rotation) @ IMLS (Institute of Molecular Life Sciences - University of Zürich) under the supervision of [Dr. Simon Restrepo](http://bioimaging.usc.edu/index.html) that successfully ended in Oct'13.
+
+From June '14 to Jan '15, after my master thesis project on modelling D. melanogaster tubular organs through FEM simulations, I was a Research Assistant under the supervision of [Prof. Konrad Basler (UZH)](http://www.imls.uzh.ch/en/research/basler.html) and [Dr. Yanlan Mao (UCL)](http://www.ucl.ac.uk/lmcb/users/yanlan-mao). In this period of time, I was involved in the software engineering of [EpiTools](http://imls-bg-arthemis.uzh.ch/epitools-wiki/site/home/), an image processing software for epithelial tissues.
+
+In Feb'15, I joined [Dr. Maria Anisimova](https://www.zhaw.ch/en/about-us/person/anis/) bioinformatics group as a PhD candidate in computational science and phylogenetics at Zurich University of Applied Sciences in Wädenswil (ZH). In Feb '18, I moved back to University of Zurich to complete my PhD in the group of [Prof. Dr. Christian von Mering](http://www.imls.uzh.ch/en/research/vonmering.html). On 4<sup>th</sup> Dec '18, I defended my PhD thesis titled "Realistic Evolutionary Models for Phylogenetic-Guided Analyses" and I successfully passed the doctoral exam at University of Zurich.
+
+---
 
 ### Algorithms for optimising binary tree topologies
 

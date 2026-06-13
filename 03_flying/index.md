@@ -7,18 +7,10 @@ tags: ["aviation", "flying", "journey", "Ground School"]
 comments: false
 order: 3
 permalink: /flying/
+exclude_from_nav: true
 ---
 <br>
-Flying has always fascinated me, but I kept on looking at it as something unreachable. Recently, my life path has taken a new direction, and I discovered that with dedication and patience one can touch the sky.
-
-In Oct, '21 I started my journey to become a private pilot, and in June '23 I passed the checkride for the PPL(A) SEP Land license. I am currently enrolled in a course to obtain the Basic Instrument Ratings (BIR).
-
-Since 2024 I've also served on the board of the [European Pride in Aviation Network](https://www.prideinaviation.org/) — a community for LGBTQIA+ people who love aviation, from pilots and cabin crew to engineers and everyone in between.  
-
-
-![aviation-1](/assets/flying/IMG_1909.jpeg){: style="width:800px; height: 337px;object-fit: cover;" }
-
-  > Sunset on the D-IIKM Beechcraft King Air C90A over Alsace, France
+This page is the practical companion to my [path into flying](/outdoors/#in-the-cockpit) — the flight schools, the medical, the study material, and the tools that helped me earn a PPL(A). If you're starting out yourself, I hope it saves you some searching.
 
 ---
 

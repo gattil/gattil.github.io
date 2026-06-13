@@ -11,7 +11,7 @@
         {% assign sorted_pages = site.pages | sort:"order" %}
         {% for node in sorted_pages %}
           {% if node.title != null %}
-            {% if node.layout == "page" %}
+            {% if node.layout == "page" and node.exclude_from_nav != true %}
               <li><a id="{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
             {% endif %}
           {% endif %}
